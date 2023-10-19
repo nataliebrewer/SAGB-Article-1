@@ -1,0 +1,283 @@
+---
+title: " SAGB Article 1: What is peak age in professional tennis?"
+author: "Natalie Brewer"
+date: "2023-10-03"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+#Load relevant libraries
+library(ggplot2)
+library(dplyr)
+library(readr)
+library(MASS)
+```
+
+## Import data
+
+Import data from Jeff Sackman tennis database, Ultimate Tennis Statistics, and ESPN.
+```{r}
+# Player names and basic information, including birth date
+player_data <- read.table("/Users/nataliebrewer/Desktop/SAGB/Article 1/atp_players.csv", sep=",")
+player_df <- data.frame(player_data)
+# Remove extra data and rename
+player_df <- player_df[-1,] #Remove row of labels
+colnames(player_df) <- c("PlayerID", "First_Name", "Last_Name", "Hand", "Birthdate", "Country", "Height", "Wiki_ID")  #Rename columns
+player_df$Full_Name <- paste(player_df$First_Name, player_df$Last_Name, sep=" ")  #Combine first and last name columns into one
+player_df$Birthdate <- as.Date(player_df$Birthdate, format="%Y%m%d")  #Convert birthdates to date format
+head(player_df)
+
+
+
+# Peak ELO and ATP rankings and age when achieved
+peakELO_data <- read.table("/Users/nataliebrewer/Desktop/SAGB/Article 1/PeakEloRatings.csv", sep=",")
+peakELO_df <- data.frame(peakELO_data)
+# Remove extra data and rename 
+peakELO_df <- peakELO_df[-1,-c(1,3,4,5,10,11,12)] #Remove unneeded columns and label row
+colnames(peakELO_df) <- c("Name", "Peak_ELO", "Best_Rank", "Best_Rank_Date", "Peak_ELO_Date", "Peak_ELO_Age") #Rename columns
+# Convert data types
+peakELO_df$Peak_ELO_Age <- as.numeric(peakELO_df$Peak_ELO_Age) #Convert ages to numbers
+peakELO_df$Peak_ELO_Date <- as.Date(peakELO_df$Peak_ELO_Date) #Convert peak Elo dates to dates
+peakELO_df$Best_Rank_Date <- as.Date(peakELO_df$Best_Rank_Date) #Convert peak ATP dates to dates
+peakELO_df$Best_Rank_Age <- as.integer(difftime(peakELO_df$Best_Rank_Date, peakELO_df$Peak_ELO_Date, units="weeks")  / 52.25 + peakELO_df$Peak_ELO_Age)   #Convert ages to numbers
+head(peakELO_df)
+
+
+# Grand Slam winners for 4 events each year 
+GS_data <- read.table("/Users/nataliebrewer/Desktop/SAGB/Article 1/GrandSlamHistory.csv", sep=",")
+GS_df <- data.frame(GS_data)
+# Rename columns, remove extra data, and reorder by ascending year
+colnames(GS_df) = c("Year", "Tournament", "Winner", "Runner_Up") #Rename columns
+GS_df <- GS_df[-1,] #Remove label row
+GS_df <- GS_df[order(GS_df$Year),] #Reorder by year
+GS_df <- GS_df[GS_df$Year >1950,] #Remove years prior to 1950
+# Remove rows with other tournaments
+GS_df <- GS_df[GS_df$Tournament %in% c("U.S. Open", "Wimbledon", "French Open","Australian Open"),]
+#Add column with tournament date (estimated, but correct up to 2 weeks)
+GS_df <- GS_df %>% 
+  mutate(Tourn_Date = case_when(
+    Tournament == "U.S. Open" ~ as.Date(paste(GS_df$Year,"09-09", sep="-")),
+    Tournament == "Wimbledon" ~ as.Date(paste(GS_df$Year,"07-01", sep="-")),
+    Tournament == "French Open" ~ as.Date(paste(GS_df$Year,"06-09", sep="-")),
+    Tournament == "Australian Open" ~ as.Date(paste(GS_df$Year,"02-01", sep="-")),
+    TRUE ~ NA
+  ))
+GS_df$Year <- as.numeric(GS_df$Year) #Convert year to number
+head(GS_df)
+
+```
+
+## Peak ATP and Elo Ratings
+
+Generate peak ATP ranking and peak Elo rating charts.
+```{r}
+# Generate plots
+ggplot(peakELO_df, aes(x=Peak_ELO_Age)) +
+  geom_histogram(aes(y=after_stat(density)), binwidth=1, width=0.95, fill="#c3f734", color="white", alpha=0.7) +
+  geom_density(aes(y=after_stat(density)), color="blue", linewidth=1.5) +  
+  labs(title="Age when reached peak Elo rating", x="Peak Elo Age", y="Density") +
+  theme_minimal()+
+  theme(
+    axis.text.x = element_text(margin = margin(t = 5, b = 15)),
+    axis.text.y = element_text(margin = margin(r = 5, l = 15), hjust = .5)
+  )
+
+ggplot(peakELO_df, aes(x=Best_Rank_Age)) +
+  geom_histogram(aes(y=after_stat(density)), binwidth=1, fill="#c3f734", color="white", alpha=0.7) +
+  geom_density(aes(y=after_stat(density)), color="blue", linewidth=1.5) +  
+  labs(title="Age when reached peak ATP ranking", x="Peak ATP Ranking Age", y="Density") +
+  theme_minimal()+
+  theme(
+    axis.text.x = element_text(margin = margin(t = 5, b = 15)),
+    axis.text.y = element_text(margin = margin(r = 5, l = 15), hjust = .5)
+  )
+
+```
+
+
+
+Next, generate peak Elo rating chart, separated by decade.
+
+For the sake of simplicity, I've combined the 2010s with the first 3 years of the 2020s.
+```{r}
+# Add a column for decade.
+peakELO_df$Decade <- NA
+# Loop through the rows and categorize by decade
+for (i in 1:nrow(peakELO_df)) {
+  date <- peakELO_df$Peak_ELO_Date[i]
+  if (as.Date("1980-01-01") <= date & date < as.Date("1990-01-01")) {
+    peakELO_df$Decade[i] <- "1980s"
+  } else if (as.Date("1990-01-01") <= date & date < as.Date("2000-01-01")) {
+    peakELO_df$Decade[i] <- "1990s"
+  } else if (as.Date("2000-01-01") <= date & date < as.Date("2010-01-01")) {
+    peakELO_df$Decade[i] <- "2000s"
+  } else if (as.Date("2010-01-01") <= date & date < as.Date("2024-01-01")) {
+    peakELO_df$Decade[i] <- "2010-23"
+  }
+}
+
+# Generate plot for decade-separated peak Elo densities
+ggplot(peakELO_df %>% filter(Peak_ELO_Date >= as.Date("1980-01-01")), aes(x = Peak_ELO_Age, y = after_stat(density), color = Decade))  +
+  geom_density(linewidth = 1.5) +
+  labs(title = "Age when reached peak Elo rating", x = "Peak Elo Age", y = "Density") +
+  theme_minimal() +
+  scale_color_manual(
+    values = c("1980s" = "#f7b334", "1990s" = "#f7f134", "2000s" = "#c3f734", "2010-23" = "#34f758"), 
+    name = "Decade"  # Title for the legend
+  )+
+  theme(
+    axis.text.x = element_text(margin = margin(t = 5, b = 15)),
+    axis.text.y = element_text(margin = margin(r = 5, l = 15), hjust = .5)
+  )
+```
+
+
+## Grand Slam Winners Analysis
+
+```{r}
+# Combine player data and grand slam data frames, align winners to their player profile
+GS_df <- GS_df %>%
+  left_join(player_df, by = c("Winner" = "Full_Name")) %>%
+  mutate(Winner_Age = as.numeric(difftime(Tourn_Date, Birthdate, units = "weeks") / 52.25))
+
+# Remove rows with no player age data and duplicates
+GS_df <- GS_df[complete.cases(GS_df$Winner_Age),]
+GS_df <- GS_df[-c(90, 91), ]
+GS_df <- GS_df[-82, ]
+head(GS_df)
+
+# Separate data frames for each tournament
+usopen_df <- GS_df[GS_df$Tournament == "U.S. Open", ]
+wimb_df <- GS_df[GS_df$Tournament == "Wimbledon", ]
+french_df <- GS_df[GS_df$Tournament == "French Open", ]
+aus_df <- GS_df[GS_df$Tournament == "Australian Open", ]
+
+# Average age of winner each year
+avg_df <- data.frame(Year = 1951:2023)
+avg_age_vec <- c()
+count <- 0
+total <- 0
+
+# Create data frame with averaged age of winners for each year
+for (i in avg_df$Year) {
+  if (i %in% usopen_df$Year) {
+    count <- count + 1
+    total <- total + usopen_df[usopen_df$Year == i, "Winner_Age"]
+  }
+  if (i %in% wimb_df$Year) {
+    count <- count + 1
+    total <- total + wimb_df[wimb_df$Year == i, "Winner_Age"]
+  }
+  if (i %in% french_df$Year) {
+    count <- count + 1
+    total <- total + french_df[french_df$Year == i, "Winner_Age"]
+  }
+  if (i %in% aus_df$Year) {
+    count <- count + 1
+    total <- total + aus_df[aus_df$Year == i, "Winner_Age"]
+  }
+  avg_age_vec <- c(avg_age_vec, total/count)
+  count <- 0
+  total <- 0
+}
+
+avg_df$Age <- avg_age_vec
+```
+
+First, we look at the ages of the winners over time.
+
+```{r}
+# Line plot over time, each color is a different event
+ggplot() +
+  geom_point(data=usopen_df,aes(x=Year, y=Winner_Age), color="red") +
+  geom_line(data=usopen_df,aes(x=Year, y=Winner_Age, group=1), color="red") +
+  geom_point(data=wimb_df,aes(x=Year, y=Winner_Age), color="blue") +
+  geom_line(data=wimb_df,aes(x=Year, y=Winner_Age, group=1), color="blue") +
+  geom_point(data=french_df,aes(x=Year, y=Winner_Age), color="green") +
+  geom_line(data=french_df,aes(x=Year, y=Winner_Age, group=1), color="green") +
+  geom_point(data=aus_df,aes(x=Year, y=Winner_Age), color="yellow") +
+  geom_line(data=aus_df,aes(x=Year, y=Winner_Age, group=1), color="yellow") +
+  labs(title="Winners of Grand Slams over time", x="Year",y="Age of Champion") +
+  scale_y_continuous(limits =c(0,40), breaks=seq(0,45,by=5)) +
+  scale_x_continuous(limits =c(1950,2025), breaks=seq(1950,2025,by=5))
+
+
+# Line plot over time, all events averaged
+ggplot() +
+  geom_smooth(data = avg_df, aes(x = Year, y = Age), method = "lm", se = FALSE, color = "#c3f734") +  #Regression line
+  geom_point(data=avg_df,aes(x=Year, y=Age), color="blue") +
+  geom_line(data=avg_df,aes(x=Year, y=Age, group=1), color="blue") +
+  labs(title="Average age of Grand Slam winners each year", x="Year",y="Average Age of Champions") +
+  scale_y_continuous(limits =c(15,35), breaks=seq(0,45,by=5)) +
+  scale_x_continuous(limits =c(1950,2023), breaks=seq(1950,2023,by=10))+
+  theme_minimal()+
+  theme(
+    axis.text.x = element_text(margin = margin(t = 5, b = 15)),
+    axis.text.y = element_text(margin = margin(r = 5, l = 15), hjust = .5)
+  )
+```
+
+Next we look at all the winners of the events to see which ages are most common among them.
+
+```{r}
+# All Grand Slams together histogram
+ggplot(GS_df, aes(x=Winner_Age)) +
+  geom_histogram(aes(y=after_stat(density)), binwidth = 1, fill="#f7b334", color="white") +
+  #stat_function(fun=dgamma, args=list(shape=fit$estimate["shape"], rate=fit$estimate["rate"]), color="blue", linewidth=1.5) +
+  labs(title="Grand Slam Winner Ages", x="Age", y="Density") +
+  scale_x_continuous(breaks=seq(0,45, by=1)) + 
+  theme_minimal()+
+  theme(
+    axis.text.x = element_text(margin = margin(t = 5, b = 15)),
+    axis.text.y = element_text(margin = margin(r = 5, l = 15), hjust = .5)
+  )
+
+# US Open histogram
+ggplot(usopen_df, aes(x = Winner_Age)) +
+  geom_histogram(binwidth = 1, fill = "#c3f734", color="white") +
+  labs(title = "US Open Winner Ages", x = "Age", y = "Number of Winners") +
+  scale_x_continuous(breaks = seq(0, 45, by = 2)) +
+  scale_y_continuous(breaks = seq(0, 15, by = 5)) +
+  theme_minimal()+
+  theme(
+    axis.text.x = element_text(margin = margin(t = 5, b = 15)),
+    axis.text.y = element_text(margin = margin(r = 5, l = 15), hjust = .5)
+  )
+
+# Wimbledon histogram
+ggplot(wimb_df, aes(x=Winner_Age)) +
+  geom_histogram(binwidth = 1, fill ="#c3f734", color="white") +
+  labs(title="Wimbledon Winner Ages", x="Age", y="Number of Winners") +
+  scale_x_continuous(breaks=seq(0,45, by=2)) +
+  scale_y_continuous(breaks = seq(0, 15, by = 5)) +
+  theme_minimal()+
+  theme(
+    axis.text.x = element_text(margin = margin(t = 5, b = 15)),
+    axis.text.y = element_text(margin = margin(r = 5, l = 15), hjust = .5)
+  )
+
+# French Open histogram
+ggplot(french_df, aes(x=Winner_Age)) +
+  geom_histogram(binwidth = 1, fill ="#c3f734", color="white") +
+  labs(title="French Open Winner Ages", x="Age", y="Number of Winners") +
+  scale_x_continuous(breaks=seq(0,45, by=2)) +
+  scale_y_continuous(breaks = seq(0, 15, by = 5)) +
+  theme_minimal()+
+  theme(
+    axis.text.x = element_text(margin = margin(t = 5, b = 15)),
+    axis.text.y = element_text(margin = margin(r = 5, l = 15), hjust = .5)
+  )
+
+# Australian Open histogram
+ggplot(aus_df, aes(x=Winner_Age)) +
+  geom_histogram(binwidth = 1, fill ="#c3f734", color="white") +
+  labs(title="Australian Open Winner Ages", x="Age", y="Number of Winners") +
+  scale_x_continuous(breaks=seq(0,45, by=2)) + 
+  scale_y_continuous(breaks = seq(0, 15, by = 5)) +
+  theme_minimal()+
+  theme(
+    axis.text.x = element_text(margin = margin(t = 5, b = 15)),
+    axis.text.y = element_text(margin = margin(r = 5, l = 15), hjust = .5)
+  )
+```

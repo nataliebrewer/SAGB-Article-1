@@ -1,0 +1,1001 @@
+rank,name,country_name,country_id,active,points,bestRank,bestRankDate,bestRatingDate,tournamentEvent_name,tournamentEvent_season,tournamentEvent_level,bestRatingAge
+1,Novak Djokovic,Serbia,SRB,true,2629,1,2011-03-21,2016-02-01,Australian Open,2016,G,28
+2,Bjorn Borg,Sweden,SWE,false,2622,1,1977-07-04,1980-07-07,Wimbledon,1980,G,24
+3,John McEnroe,United States,USA,false,2583,1,1983-05-08,1985-04-08,Chicago,1985,A,26
+4,Rafael Nadal,Spain,ESP,true,2552,1,2008-06-16,2013-09-09,US Open,2013,G,27
+5,Roger Federer,Switzerland,SUI,false,2550,1,2003-08-11,2007-03-05,Dubai,2007,A,25
+6,Jimmy Connors,United States,USA,false,2521,1,1974-03-17,1978-10-29,Sydney Indoor,1978,B,26
+7,Ivan Lendl,United States,USA,false,2518,1,1983-01-25,1986-03-24,Fort Myers,1986,B,26
+8,Rod Laver,Australia,AUS,false,2509,1,1968-04-17,1969-09-10,US Open,1969,G,31
+9,Andy Murray,United Kingdom,GBR,true,2500,2,2009-04-19,2016-11-21,Tour Finals,2016,F,29
+10,Guillermo Vilas,Argentina,ARG,false,2431,2,1975-09-02,1977-12-05,Johannesburg WCT,1977,B,25
+11,Boris Becker,Germany,GER,false,2419,1,1990-12-18,1989-11-06,Paris Indoor,1989,M,21
+12,Pete Sampras,United States,USA,false,2407,1,1992-10-02,1994-05-16,Rome Masters,1994,M,22
+13,Ken Rosewall,Australia,AUS,false,2388,1,1968-11-22,1968-06-10,Roland Garros,1968,G,33
+14,Stan Smith,United States,USA,false,2381,1,1972-10-20,1973-05-16,Dallas WCT,1973,L,26
+15,Andre Agassi,United States,USA,false,2376,1,1995-03-24,1995-09-29,Davis Cup WG,1995,D,25
+16,Mats Wilander,Sweden,SWE,false,2371,2,1987-08-17,1988-10-03,Palermo,1988,B,24
+17,Stefan Edberg,Sweden,SWE,false,2370,1,1990-11-19,1990-11-19,Tour Finals,1990,F,24
+18,Ilie Nastase,Romania,ROU,false,2363,1,1972-09-24,1976-09-15,US Open,1976,G,30
+19,Tony Roche,Australia,AUS,false,2355,1,1968-02-20,1969-03-02,Oakland,1969,A,23
+20,Arthur Ashe,United States,USA,false,2354,2,1975-07-07,1976-03-11,Hartford,1976,B,32
+21,David Ferrer,Spain,ESP,false,2348,4,2007-11-19,2013-02-25,Buenos Aires,2013,B,30
+22,Carlos Alcaraz Garfia,Spain,ESP,true,2344,2,2023-05-07,2023-07-17,Wimbledon,2023,G,20
+23,Vitas Gerulaitis,United States,USA,false,2335,3,1979-03-23,1979-06-11,Roland Garros,1979,G,24
+24,Juan Martin Del Potro,Argentina,ARG,true,2331,3,2010-06-07,2009-09-14,US Open,2009,G,20
+25,Jim Courier,United States,USA,false,2330,1,1992-05-18,1992-06-08,Roland Garros,1992,G,21
+26,John Newcombe,Australia,AUS,false,2327,1,1968-02-23,1971-08-17,Montreal / Toronto,1971,A,27
+27,Brian Gottfried,United States,USA,false,2324,3,1977-03-28,1977-03-28,La Costa,1977,A,25
+28,Tom Okker,Netherlands,NED,false,2317,1,1974-04-01,1974-04-01,Rotterdam,1974,B,30
+29,Daniil Medvedev,Russian Federation,RUS,true,2316,2,2023-04-02,2022-01-31,Australian Open,2022,G,25
+30,Gene Mayer,United States,USA,false,2303,4,1981-03-09,1981-03-23,Rotterdam,1981,A,24
+31,Alexander Zverev,Germany,GER,true,2303,3,2021-11-21,2021-11-21,Tour Finals,2021,F,24
+32,Jose Luis Clerc,Argentina,ARG,false,2297,5,1981-08-04,1981-08-10,Indianapolis,1981,B,22
+33,Kei Nishikori,Japan,JPN,true,2296,4,2016-09-12,2016-08-15,Rio Olympics,2016,O,26
+34,Lleyton Hewitt,Australia,AUS,false,2295,1,2001-10-15,2002-03-18,Indian Wells Masters,2002,M,21
+35,Nikolay Davydenko,Russian Federation,RUS,false,2291,5,2008-04-21,2010-02-01,Australian Open,2010,G,28
+36,Stan Wawrinka,Switzerland,SUI,true,2291,5,2014-02-17,2014-04-20,Monte Carlo Masters,2014,M,29
+37,Manuel Orantes,Spain,ESP,false,2290,4,1975-09-10,1975-09-10,US Open,1975,G,26
+38,Thomas Muster,Austria,AUT,false,2287,3,1995-05-22,1995-10-30,Essen Masters,1995,M,28
+39,Eddie Dibbs,United States,USA,false,2282,5,1976-09-15,1978-08-21,Montreal / Toronto,1978,B,27
+40,Gustavo Kuerten,Brazil,BRA,false,2281,1,2001-06-11,2001-08-13,Cincinnati Masters,2001,M,24
+41,Andy Roddick,United States,USA,false,2274,1,2003-09-08,2003-09-08,US Open,2003,G,21
+42,Michael Stich,Germany,GER,false,2272,2,1993-11-22,1993-12-10,Grand Slam Cup,1993,L,25
+43,Robin Soderling,Sweden,SWE,false,2271,4,2011-04-03,2011-03-11,Davis Cup WG,2011,D,26
+44,Milos Raonic,Canada,CAN,true,2269,5,2016-07-11,2016-07-11,Wimbledon,2016,G,25
+45,Yannick Noah,France,FRA,false,2268,4,1983-06-06,1983-06-06,Roland Garros,1983,G,23
+46,Michael Chang,United States,USA,false,2267,2,1997-03-17,1996-03-18,Indian Wells Masters,1996,M,24
+47,Tomas Berdych,Czech Republic,CZE,false,2263,5,2007-07-09,2015-05-10,Madrid Masters,2015,M,29
+48,Andres Gimeno,Spain,ESP,false,2261,2,1968-04-23,1969-03-31,New York,1969,M,31
+49,Roscoe Tanner,United States,USA,false,2261,5,1979-07-09,1979-07-09,Wimbledon,1979,G,27
+50,Stefanos Tsitsipas,Greece,GRE,true,2258,3,2023-01-30,2021-06-13,Roland Garros,2021,G,22
+51,Miloslav Mecir,Slovakia,SVK,false,2257,5,1987-04-14,1987-08-03,Hilversum,1987,B,23
+52,Harold Solomon,United States,USA,false,2256,5,1976-08-30,1980-06-09,Roland Garros,1980,G,27
+53,Patrick Rafter,Australia,AUS,false,2255,2,1997-11-17,1998-10-02,Davis Cup WG,1998,D,25
+54,Dominic Thiem,Austria,AUT,true,2250,4,2020-02-03,2020-11-23,Tour Finals,2020,F,27
+55,Raul Ramirez,Mexico,MEX,false,2249,5,1976-08-02,1976-11-14,Stockholm,1976,M,23
+56,Goran Ivanisevic,Croatia,CRO,false,2246,3,1992-11-23,1992-11-23,Tour Finals,1992,F,21
+57,Jo Wilfried Tsonga,France,FRA,false,2244,6,2009-03-02,2012-01-09,Doha,2012,B,26
+58,Dennis Ralston,United States,USA,false,2242,1,1968-02-27,1968-06-07,Baltimore WCT,1968,A,25
+59,Joakim Nystrom,Sweden,SWE,false,2242,5,1986-04-28,1986-05-05,Madrid,1986,B,23
+60,Adriano Panatta,Italy,ITA,false,2241,5,1976-08-24,1976-06-14,Roland Garros,1976,G,25
+61,Marcelo Rios,Chile,CHI,false,2241,2,1998-03-27,1998-06-08,Roland Garros,1998,G,22
+62,Sergi Bruguera,Spain,ESP,false,2232,2,1994-06-06,1994-07-11,Gstaad,1994,B,23
+63,Marin Cilic,Croatia,CRO,true,2232,6,2014-09-08,2014-09-19,Davis Cup WG,2014,D,25
+64,Guillermo Coria,Argentina,ARG,false,2229,2,2004-06-07,2004-06-07,Roland Garros,2004,G,22
+65,Cliff Drysdale,South Africa,RSA,false,2227,4,1968-03-05,1971-08-17,Montreal / Toronto,1971,A,30
+66,Andrey Rublev,Russian Federation,RUS,true,2227,5,2020-11-02,2021-03-08,Rotterdam,2021,A,23
+67,Earl Butch Buchholz,United States,USA,false,2226,1,1968-04-12,1968-05-17,Buffalo WCT,1968,A,27
+68,Roy Emerson,Australia,AUS,false,2225,3,1968-04-24,1968-04-24,Wembley NTL 1,1968,B,31
+69,Juan Carlos Ferrero,Spain,ESP,false,2225,3,2003-06-09,2003-10-20,Madrid Masters,2003,M,23
+70,Marty Riessen,United States,USA,false,2223,1,1968-02-19,1972-05-17,Dallas WCT,1972,L,30
+71,Andres Gomez,Ecuador,ECU,false,2223,5,1984-08-13,1985-04-08,Chicago,1985,A,25
+72,Petr Korda,Czech Republic,CZE,false,2222,2,1998-02-02,1998-02-02,Australian Open,1998,G,30
+73,Marat Safin,Russian Federation,RUS,false,2218,2,2000-09-18,2005-01-31,Australian Open,2005,G,25
+74,Pat Cash,Australia,AUS,false,2217,6,1988-01-25,1988-02-12,Davis Cup WG,1988,D,22
+75,Yevgeny Kafelnikov,Russian Federation,RUS,false,2216,2,1999-02-01,1999-02-22,Rotterdam,1999,A,25
+76,Richard Krajicek,Netherlands,NED,false,2214,2,1999-03-26,1999-03-26,Miami Masters,1999,M,27
+77,Kent Carlsson,Sweden,SWE,false,2213,6,1988-08-08,1988-09-19,Barcelona,1988,B,20
+78,Cliff Richey,United States,USA,false,2212,5,1970-09-16,1970-09-16,US Open,1970,G,23
+79,Dick Stockton,United States,USA,false,2212,7,1977-04-11,1977-03-28,Rotterdam,1977,B,26
+80,Jose Higueras,Spain,ESP,false,2210,7,1979-05-21,1979-05-21,Hamburg,1979,M,26
+81,Brad Gilbert,United States,USA,false,2210,5,1989-08-21,1989-08-21,Cincinnati,1989,M,28
+82,Fernando Gonzalez,Chile,CHI,false,2209,3,2006-10-23,2007-01-29,Australian Open,2007,G,26
+83,Alex Metreveli,Russian Federation,RUS,false,2208,7,1974-09-11,1974-09-27,Davis Cup WG,1974,D,29
+84,Ivan Ljubicic,Croatia,CRO,false,2206,3,2006-03-31,2006-04-14,Davis Cup WG,2006,D,27
+85,Fernando Verdasco,Spain,ESP,true,2204,7,2009-05-04,2010-05-02,Rome Masters,2010,M,26
+86,Richard Pancho Gonzales,United States,USA,false,2203,5,1970-02-09,1970-07-23,Tennis Champions Classic,1970,L,42
+87,Grigor Dimitrov,Bulgaria,BUL,true,2203,6,2018-01-29,2018-02-19,Rotterdam,2018,A,26
+88,Eliot Teltscher,United States,USA,false,2200,7,1984-11-26,1981-10-19,Sydney Indoor,1981,B,22
+89,Jan Kodes,Czech Republic,CZE,false,2197,6,1973-07-09,1973-09-12,US Open,1973,G,27
+90,David Nalbandian,Argentina,ARG,false,2196,3,2006-05-22,2010-08-22,Cincinnati Masters,2010,M,28
+91,Richard Gasquet,France,FRA,true,2196,9,2007-10-08,2016-02-08,Montpellier,2016,B,29
+92,Carlos Moya,Spain,ESP,false,2190,3,2002-12-06,2004-06-07,Roland Garros,2004,G,27
+93,Tommy Haas,Germany,GER,false,2189,2,2002-01-28,2002-01-28,Australian Open,2002,G,23
+94,Gael Monfils,France,FRA,true,2189,7,2010-11-28,2016-09-12,US Open,2016,G,30
+95,Magnus Larsson,Sweden,SWE,false,2188,4,1995-03-24,1995-04-07,Davis Cup WG,1995,D,25
+96,Todd Martin,United States,USA,false,2188,2,1999-01-18,1999-02-01,Australian Open,1999,G,28
+97,Henri Leconte,France,FRA,false,2187,7,1986-09-22,1986-09-22,Hamburg,1986,A,23
+98,Jakob Hlasek,Switzerland,SUI,false,2184,8,1989-03-13,1989-02-13,Rotterdam,1989,B,24
+99,Anders Jarryd,Sweden,SWE,false,2182,6,1985-03-18,1986-04-14,Dallas,1986,L,24
+100,Alex Corretja,Spain,ESP,false,2182,3,2000-08-07,2000-08-21,Washington,2000,A,26
+101,Victor Pecci,Paraguay,PAR,false,2181,8,1979-07-30,1981-06-08,Roland Garros,1981,G,25
+102,Kevin Anderson,South Africa,RSA,true,2181,6,2019-04-15,2019-01-07,Pune,2019,B,32
+103,Wojtek Fibak,Poland,POL,false,2180,9,1979-04-09,1977-06-06,Roland Garros,1977,G,24
+104,Tim Mayotte,United States,USA,false,2179,7,1986-07-07,1986-07-07,Wimbledon,1986,G,25
+105,Guy Forget,France,FRA,false,2179,6,1991-04-08,1991-11-04,Paris Masters,1991,M,26
+106,Fred Stolle,Australia,AUS,false,2178,7,1969-06-30,1969-06-30,Wimbledon,1969,G,30
+107,Sandy Mayer,United States,USA,false,2178,8,1978-04-03,1978-04-03,Milan WCT,1978,A,25
+108,Greg Rusedski,United Kingdom,GBR,false,2178,3,1998-11-30,1998-11-30,Tour Finals,1998,F,25
+109,Andrei Medvedev,Ukraine,UKR,false,2177,5,1994-05-23,1994-05-09,Hamburg Masters,1994,M,19
+110,Nick Kyrgios,Australia,AUS,true,2176,6,2022-08-15,2017-05-15,Madrid Masters,2017,M,22
+111,Jannik Sinner,Italy,ITA,true,2176,5,2023-04-02,2023-08-14,Toronto Masters,2023,M,21
+112,Jonas Bjorkman,Sweden,SWE,false,2174,3,1997-12-05,1997-12-05,Davis Cup WG,1997,D,25
+113,Thomas Enqvist,Sweden,SWE,false,2173,5,1998-05-04,1997-02-17,Marseille,1997,B,22
+114,Matteo Berrettini,Italy,ITA,true,2173,7,2021-07-12,2021-09-13,US Open,2021,G,25
+115,Magnus Norman,Sweden,SWE,false,2172,4,2000-05-15,2000-06-12,Roland Garros,2000,G,24
+116,Mark Philippoussis,Australia,AUS,false,2171,4,2000-03-20,1999-03-15,Indian Wells Masters,1999,M,22
+117,Johan Kriek,United States,USA,false,2169,7,1984-08-06,1982-03-15,Munich-2 WCT,1982,A,23
+118,Mardy Fish,United States,USA,false,2169,9,2011-08-21,2011-10-10,Tokyo,2011,A,29
+119,Peter Mcnamara,Australia,AUS,false,2168,8,1981-07-13,1981-07-20,Stuttgart Outdoor,1981,B,26
+120,Ernests Gulbis,Latvia,LAT,false,2167,10,2014-06-09,2014-06-09,Roland Garros,2014,G,25
+121,Tim Henman,United Kingdom,GBR,false,2165,4,2002-04-12,2002-04-22,Monte Carlo Masters,2002,M,27
+122,David Goffin,Belgium,BEL,true,2165,8,2018-05-21,2017-12-01,Davis Cup WG,2017,D,26
+123,James Blake,United States,USA,false,2164,4,2007-01-15,2007-01-29,Australian Open,2007,G,27
+124,Casper Ruud,Norway,NOR,true,2163,6,2022-04-03,2022-06-05,Roland Garros,2022,G,23
+125,Kevin Curren,United States,USA,false,2162,5,1985-07-08,1985-07-08,Wimbledon,1985,G,27
+126,Aaron Krickstein,United States,USA,false,2162,6,1989-12-05,1989-11-06,Paris Indoor,1989,M,22
+127,Nicolas Almagro,Spain,ESP,false,2160,9,2012-07-23,2012-09-21,Davis Cup WG,2012,D,27
+128,John Alexander,Australia,AUS,false,2159,10,1975-04-07,1975-04-07,Tuscon,1975,M,23
+129,Wayne Ferreira,South Africa,RSA,false,2158,7,1995-05-22,1996-08-26,Canada Masters,1996,M,24
+130,Janko Tipsarevic,Serbia,SRB,false,2158,9,2012-08-13,2012-08-13,Canada Masters,2012,M,28
+131,Manuel Santana,Spain,ESP,false,2157,8,1968-04-15,1969-08-18,Kitzbuhel,1969,B,31
+132,Jimmy Arias,United States,USA,false,2157,6,1984-07-09,1983-09-19,Palermo,1983,B,19
+133,Albert Costa,Spain,ESP,false,2154,4,1998-06-08,1998-06-08,Roland Garros,1998,G,22
+134,Magnus Gustafsson,Sweden,SWE,false,2150,6,1991-05-27,1991-08-05,Kitzbuhel,1991,B,24
+135,Peter Fleming,United States,USA,false,2148,9,1979-10-01,1979-10-01,San Francisco,1979,B,24
+136,Clark Graebner,United States,USA,false,2147,2,1968-02-19,1968-09-21,Los Angeles,1968,M,24
+137,John Isner,United States,USA,true,2147,10,2012-04-13,2012-08-26,Winston-Salem,2012,B,27
+138,Holger Vitus Nodskov Rune,Denmark,DEN,true,2146,5,2023-07-17,2023-07-17,Wimbledon,2023,G,20
+139,Jaime Fillol,Chile,CHI,false,2145,12,1976-02-22,1975-10-20,Barcelona,1975,A,29
+140,Jack Sock,United States,USA,true,2144,13,2017-03-20,2017-04-03,Miami Masters,2017,M,24
+141,Nikola Pilic,Croatia,CRO,false,2143,5,1968-04-04,1968-04-04,Bakersfield WCT,1968,A,28
+142,Corrado Barazzutti,Italy,ITA,false,2142,13,1978-08-28,1978-08-28,Boston,1978,A,25
+143,Emilio Sanchez,Spain,ESP,false,2142,9,1990-04-09,1987-08-10,Kitzbuhel,1987,B,22
+144,Felix Auger Aliassime,Canada,CAN,true,2140,8,2022-11-07,2022-12-04,Davis Cup Finals,2022,D,22
+145,Gaston Gaudio,Argentina,ARG,false,2137,8,2005-07-11,2005-08-15,Canada Masters,2005,M,26
+146,Karen Khachanov,Russian Federation,RUS,true,2137,10,2019-02-08,2018-11-05,Paris Masters,2018,M,22
+147,Martin Mulligan,Australia,AUS,false,2136,9,1969-05-22,1969-05-26,Rome,1969,M,28
+148,Thomas Johansson,Sweden,SWE,false,2136,7,2002-02-15,2002-02-15,Marseille,2002,B,26
+149,Radek Stepanek,Czech Republic,CZE,false,2136,10,2009-11-29,2009-11-15,Paris Masters,2009,M,30
+150,Nicolas Kiefer,Germany,GER,false,2135,5,2000-02-14,2000-02-14,Dubai,2000,B,22
+151,Roberto Bautista Agut,Spain,ESP,true,2135,9,2019-07-15,2016-10-17,Shanghai Masters,2016,M,28
+152,Robert Lutz,United States,USA,false,2134,11,1971-10-25,1971-10-25,Barcelona WCT,1971,A,24
+153,Alberto Berasategui,Spain,ESP,false,2134,9,1994-11-07,1994-11-07,Montevideo,1994,B,21
+154,Taylor Harry Fritz,United States,USA,true,2134,10,2023-01-16,2023-04-16,Monte-Carlo Masters,2023,M,25
+155,Brian Teacher,United States,USA,false,2133,10,1981-09-28,1981-01-09,Australian Open,1980,G,26
+156,Tomas Smid,Czech Republic,CZE,false,2133,9,1984-03-12,1984-03-12,Brussels,1984,M,27
+157,Felix Mantilla,Spain,ESP,false,2133,6,1997-09-15,1997-09-15,Bournemouth,1997,B,22
+158,Sebastien Grosjean,France,FRA,false,2133,4,2003-01-27,2001-11-19,Masters Cup,2001,F,23
+159,Mario Ancic,Croatia,CRO,false,2133,6,2006-09-11,2006-07-10,Wimbledon,2006,G,22
+160,Bob Hewitt,South Africa,RSA,false,2132,9,1970-07-06,1970-07-06,Wimbledon,1970,G,30
+161,Mark Cox,United Kingdom,GBR,false,2132,14,1973-08-19,1977-03-28,Rotterdam,1977,B,33
+162,Pierre Barthes,France,FRA,false,2126,4,1968-02-20,1968-02-23,Orlando WCT,1968,A,26
+163,Zeljko Franulovic,Croatia,CRO,false,2126,13,1970-11-15,1971-03-08,Macon,1971,B,23
+164,Martin Jaite,Argentina,ARG,false,2125,9,1990-03-27,1990-02-12,Guaruja,1990,B,25
+165,Karol Kucera,Slovakia,SVK,false,2125,7,1999-10-11,1998-10-19,Vienna,1998,A,24
+166,Juan Monaco,Argentina,ARG,false,2125,12,2012-07-23,2012-07-23,Hamburg,2012,A,28
+167,Vijay Amritraj,India,IND,false,2124,13,1980-07-14,1980-12-16,WCT Challenge Cup,1980,A,27
+168,Balazs Taroczy,Hungary,HUN,false,2124,12,1982-09-14,1981-06-19,Davis Cup EUR,1981,D,27
+169,Gilles Simon,France,FRA,true,2124,9,2009-01-11,2009-02-02,Australian Open,2009,G,24
+170,Rainer Schuettler,Germany,GER,false,2123,8,2003-10-13,2003-10-13,Lyon,2003,B,27
+171,Tom Gorman,United States,USA,false,2122,11,1974-03-24,1974-04-01,Rotterdam,1974,B,27
+172,Bill Scanlon,United States,USA,false,2122,13,1983-09-13,1983-09-13,US Open,1983,G,26
+173,Mikhail Youzhny,Russian Federation,RUS,false,2122,9,2007-06-11,2010-10-04,Kuala Lumpur,2010,B,28
+174,Henrik Sundstrom,Sweden,SWE,false,2121,8,1985-06-10,1985-06-10,Roland Garros,1985,G,21
+175,David Wheaton,United States,USA,false,2121,10,1991-07-08,1992-01-13,Sydney Outdoor,1992,B,22
+176,Pablo Carreno Busta,Spain,ESP,true,2121,10,2021-07-31,2021-08-22,Cincinnati Masters,2021,M,30
+177,Roger Taylor,United Kingdom,GBR,false,2118,8,1968-02-27,1973-07-16,Newport,1973,B,31
+178,Philipp Kohlschreiber,Germany,GER,false,2117,14,2016-05-02,2016-05-02,Munich,2016,B,32
+179,Marc Rosset,Switzerland,SUI,false,2116,12,1993-03-08,1994-02-07,Marseille,1994,B,23
+180,Tim Gullikson,United States,USA,false,2113,15,1980-01-21,1978-12-11,Johannesburg,1978,B,27
+181,Guillermo Canas,Argentina,ARG,false,2113,8,2002-08-05,2007-04-30,Barcelona,2007,A,29
+182,Jiri Novak,Czech Republic,CZE,false,2112,6,2002-10-21,2002-10-21,Madrid Masters,2002,M,27
+183,Fabio Fognini,Italy,ITA,true,2112,14,2014-04-11,2014-04-20,Monte Carlo Masters,2014,M,26
+184,Cedric Pioline,France,FRA,false,2110,9,2000-06-12,1993-11-15,Antwerp,1993,B,24
+185,Jurgen Melzer,Austria,AUT,false,2110,12,2011-01-31,2011-01-31,Australian Open,2011,G,29
+186,Karel Novacek,Czech Republic,CZE,false,2109,10,1991-08-12,1991-08-12,Prague,1991,B,26
+187,Victor Amaya,United States,USA,false,2108,15,1980-04-29,1980-04-29,Las Vegas,1980,M,25
+188,Nicolas Lapentti,Ecuador,ECU,false,2108,7,1999-11-08,1999-11-08,Paris Masters,1999,M,23
+189,Arnaud Clement,France,FRA,false,2107,10,2001-01-29,2001-02-16,Marseille,2001,B,23
+190,Tommy Robredo,Spain,ESP,false,2107,10,2006-05-22,2009-06-08,Roland Garros,2009,G,27
+191,Cameron Norrie,United Kingdom,GBR,true,2105,11,2022-08-21,2022-09-21,Davis Cup Finals,2022,D,27
+192,Hans Gildemeister,Chile,CHI,false,2104,13,1980-03-17,1979-12-21,Davis Cup SAM,1979,D,23
+193,Andrei Chesnokov,Russian Federation,RUS,false,2104,13,1990-06-25,1988-06-17,Davis Cup G1,1988,D,22
+194,Paradorn Srichaphan,Thailand,THA,false,2103,9,2003-01-06,2003-01-06,Chennai,2003,B,23
+195,Borna Coric,Croatia,CRO,true,2102,13,2019-01-07,2019-03-04,Dubai,2019,A,22
+196,Hubert Hurkacz,Poland,POL,true,2099,11,2022-08-15,2022-06-20,Halle,2022,A,25
+197,Marcos Baghdatis,Cyprus,CYP,false,2098,9,2007-08-20,2007-11-04,Paris Masters,2007,M,22
+198,Gilles Muller,Luxembourg,LUX,false,2098,18,2017-07-24,2017-07-17,Wimbledon,2017,G,34
+199,Onny Parun,New Zealand,NZL,false,2097,16,1974-12-09,1975-06-18,Roland Garros,1975,G,28
+200,Diego Sebastian Schwartzman,Argentina,ARG,true,2097,11,2020-11-02,2020-11-09,Paris Masters,2020,M,28
+201,Younes El Aynaoui,Morocco,MAR,false,2095,13,2002-05-06,2002-05-06,Munich,2002,B,30
+202,Pat Dupre,United States,USA,false,2094,15,1979-09-11,1979-09-11,Lafayette,1979,B,24
+203,Steve Denton,United States,USA,false,2093,16,1983-06-13,1982-12-16,Sydney Outdoor,1982,B,26
+204,Alberto Mancini,Argentina,ARG,false,2092,16,1989-06-12,1989-06-12,Roland Garros,1989,G,20
+205,Jan Michael Gambill,United States,USA,false,2091,10,2001-03-30,2001-03-30,Miami Masters,2001,M,23
+206,Nicolas Escude,France,FRA,false,2091,13,2002-03-04,2002-02-25,Rotterdam,2002,A,25
+207,Viktor Troicki,Serbia,SRB,false,2091,15,2011-04-03,2011-04-17,Monte Carlo Masters,2011,M,25
+208,Mel Purcell,United States,USA,false,2088,17,1981-10-12,1981-10-12,Tel Aviv,1981,B,22
+209,Dominik Hrbaty,Slovakia,SVK,false,2085,15,2005-12-09,2001-01-29,Australian Open,2001,G,23
+210,Sjeng Schalken,Netherlands,NED,false,2085,9,2003-09-15,2003-09-26,Davis Cup WG,2003,D,27
+211,Jonas Svensson,Sweden,SWE,false,2084,13,1990-11-05,1990-11-05,Paris Masters,1990,M,24
+212,Alex De Minaur,Australia,AUS,true,2083,13,2023-09-11,2023-03-06,Acapulco,2023,A,24
+213,Paul Henri Mathieu,France,FRA,false,2082,13,2007-08-12,2007-08-12,Canada Masters,2007,M,25
+214,Jay Berger,United States,USA,false,2081,16,1989-08-21,1989-09-11,US Open,1989,G,22
+215,Goran Prpic,Croatia,CRO,false,2081,13,1991-05-20,1991-05-20,Rome Masters,1991,M,27
+216,John Sadri,United States,USA,false,2080,18,1981-03-23,1981-01-26,Monterrey WCT,1981,B,24
+217,Jeff Borowiak,United States,USA,false,2079,24,1977-08-23,1977-08-23,Toronto,1977,A,27
+218,Phil Dent,Australia,AUS,false,2075,24,1977-08-15,1977-08-23,Toronto,1977,A,27
+219,Heinz Gunthardt,Switzerland,SUI,false,2075,24,1980-04-15,1980-07-14,Gstaad,1980,B,21
+220,Omar Camporese,Italy,ITA,false,2075,15,1992-02-24,1992-02-24,Stuttgart Indoor,1992,A,23
+221,Carlos Costa,Spain,ESP,false,2075,12,1992-05-18,1992-06-08,Roland Garros,1992,G,24
+222,Denis Shapovalov,Canada,CAN,true,2075,15,2021-07-12,2020-01-13,ATP Cup,2020,T,20
+223,Joachim Johansson,Sweden,SWE,false,2074,10,2005-02-14,2005-02-14,Marseille,2005,B,22
+224,Feliciano Lopez,Spain,ESP,true,2074,16,2014-10-12,2014-10-12,Shanghai Masters,2014,M,33
+225,Alexander Volkov,Russian Federation,RUS,false,2073,15,1993-01-18,1992-03-02,Rotterdam,1992,B,24
+226,Arnaud Boetsch,France,FRA,false,2073,15,1993-02-01,1993-11-08,Paris Masters,1993,M,24
+227,Malivai Washington,United States,USA,false,2071,14,1992-09-14,1992-10-26,Lyon,1992,B,23
+228,Sebastian Korda,United States,USA,true,2071,15,2023-02-20,2023-01-30,Australian Open,2023,G,22
+229,Ross Case,Australia,AUS,false,2070,23,1976-04-27,1976-04-27,Denver WCT,1976,B,24
+230,Derrick Rostagno,United States,USA,false,2070,17,1991-10-14,1991-10-14,Tokyo Indoor,1991,A,25
+231,Lucas Pouille,France,FRA,true,2069,20,2016-09-26,2017-05-01,Budapest,2017,B,23
+232,Buster C Mottram,United Kingdom,GBR,false,2068,21,1979-02-26,1979-02-26,Denver,1979,B,23
+233,Jason Stoltenberg,Australia,AUS,false,2068,18,1994-08-15,1994-08-15,Cincinnati Masters,1994,M,24
+234,Sam Querrey,United States,USA,false,2068,18,2013-04-21,2013-04-12,Davis Cup WG,2013,D,25
+235,Frances Tiafoe,United States,USA,true,2068,14,2023-07-03,2023-04-10,Houston,2023,B,25
+236,Thierry Tulasne,France,FRA,false,2067,14,1986-03-24,1986-03-17,Metz,1986,B,22
+237,Tommy Paul,United States,USA,true,2066,17,2023-04-02,2023-04-02,Miami Masters,2023,M,25
+238,Charlie Pasarell,United States,USA,false,2065,17,1968-06-24,1968-06-24,London,1968,M,24
+239,Mikael Pernfors,Sweden,SWE,false,2065,18,1988-10-10,1988-10-10,Scottsdale,1988,B,25
+240,Richey Reneberg,United States,USA,false,2064,17,1996-06-24,1996-06-24,Halle,1996,B,30
+241,Jan Siemerink,Netherlands,NED,false,2064,17,1996-10-28,1998-10-05,Toulouse,1998,B,28
+242,Carl Uwe Steeb,Germany,GER,false,2063,17,1989-07-31,1990-02-19,Brussels,1990,A,22
+243,Andrei Cherkasov,Russian Federation,RUS,false,2063,16,1991-06-10,1991-06-10,Roland Garros,1991,G,20
+244,Mark Woodforde,Australia,AUS,false,2062,15,1996-03-04,1993-04-02,Durban,1993,B,27
+245,Igor Andreev,Russian Federation,RUS,false,2062,17,2008-09-08,2008-09-08,US Open,2008,G,25
+246,Andrei Pavel,Romania,ROU,false,2061,11,2004-05-17,2004-05-17,Hamburg Masters,2004,M,30
+247,Ivo Karlovic,Croatia,CRO,false,2061,17,2007-11-04,2007-11-04,Paris Masters,2007,M,28
+248,Andrew Pattison,United States,USA,false,2060,21,1974-04-22,1976-02-15,Dayton,1976,B,27
+249,Hank Pfister,United States,USA,false,2060,21,1983-05-23,1982-08-10,Columbus,1982,B,28
+250,Juan Aguilera,Spain,ESP,false,2059,19,1990-05-14,1990-05-14,Hamburg Masters,1990,M,28
+251,Ion Tiriac,Romania,ROU,false,2058,18,1968-04-22,1968-07-15,Bastad 1,1968,B,29
+252,Guillermo Perez Roldan,Argentina,ARG,false,2057,19,1988-06-06,1989-06-12,Roland Garros,1989,G,19
+253,Amos Mansdorf,Israel,ISR,false,2057,18,1989-03-20,1993-07-26,Washington,1993,A,27
+254,Robby Ginepri,United States,USA,false,2057,15,2005-09-12,2005-10-24,Madrid Masters,2005,M,23
+255,Alexandr Dolgopolov,Ukraine,UKR,false,2057,22,2014-04-14,2014-03-30,Miami Masters,2014,M,25
+256,Paul Annacone,United States,USA,false,2055,16,1985-11-11,1985-10-21,Sydney Indoor,1985,B,22
+257,Horst Skoff,Austria,AUT,false,2054,19,1989-05-15,1989-05-15,Hamburg,1989,M,20
+258,Wally Masur,Australia,AUS,false,2054,19,1993-10-01,1993-10-01,Kuala Lumpur-2,1993,B,30
+259,Nicolas Massu,Chile,CHI,false,2053,13,2003-10-20,2003-10-20,Madrid Masters,2003,M,24
+260,Wilhelm Bungert,Germany,GER,false,2052,18,1968-05-24,1968-07-26,Davis Cup EUR,1968,D,29
+261,Paolo Bertolucci,Italy,ITA,false,2052,27,1977-06-20,1977-06-20,Berlin,1977,B,25
+262,Scott Davis,United States,USA,false,2052,17,1985-04-29,1985-04-29,Atlanta,1985,A,22
+263,Fabrice Santoro,France,FRA,false,2052,17,2001-08-06,2001-08-06,Canada Masters,2001,M,28
+264,Mal Anderson,Australia,AUS,false,2051,21,1973-09-12,1973-01-08,Sydney,1973,B,37
+265,Mark Edmondson,Australia,AUS,false,2050,26,1982-01-07,1982-07-05,Wimbledon,1982,G,28
+266,Darren Cahill,Australia,AUS,false,2050,18,1991-02-15,1991-03-11,Indian Wells Masters,1991,M,25
+267,Juan Ignacio Chela,Argentina,ARG,false,2049,15,2004-04-26,2007-05-21,Hamburg Masters,2007,M,27
+268,Hyeon Chung,"Korea, Republic of",KOR,true,2049,21,2018-04-02,2018-05-07,Munich,2018,B,21
+269,Paul Haarhuis,Netherlands,NED,false,2046,19,1994-04-11,1994-04-01,Davis Cup WG,1994,D,28
+270,Slobodan Zivojinovic,Serbia,SRB,false,2044,18,1987-10-27,1988-07-04,Wimbledon,1988,G,24
+271,Florian Mayer,Germany,GER,false,2044,22,2011-11-14,2011-11-14,Paris Masters,2011,M,28
+272,Agustin Calleri,Argentina,ARG,false,2043,19,2003-05-19,2003-05-19,Hamburg Masters,2003,M,26
+273,Mariano Puerta,Argentina,ARG,false,2042,21,2000-07-28,2000-07-24,Umag,2000,B,21
+274,Dmitry Tursunov,Russian Federation,RUS,false,2042,20,2006-10-02,2008-10-06,Metz,2008,B,25
+275,Steve Johnson,United States,USA,true,2042,21,2017-04-17,2017-06-12,Roland Garros,2017,G,27
+276,Max Mirnyi,Belarus,BLR,false,2041,20,2001-10-22,2001-10-29,St. Petersburg,2001,B,24
+277,Kim Warwick,Australia,AUS,false,2040,28,1981-01-09,1981-01-09,Australian Open,1980,G,28
+278,Taylor Dent,United States,USA,false,2040,16,2003-10-27,2004-02-02,Australian Open,2004,G,22
+279,Butch Walts,United States,USA,false,2039,29,1980-01-21,1980-01-21,Birmingham,1980,B,24
+280,Todd Woodbridge,Australia,AUS,false,2039,21,1996-08-26,1997-02-24,Memphis,1997,A,25
+281,Jerome Golmard,France,FRA,false,2039,19,2000-01-10,1999-04-26,Monte Carlo Masters,1999,M,25
+282,Kyle Edmund,United Kingdom,GBR,true,2038,24,2018-08-06,2018-10-22,Antwerp,2018,B,23
+283,Javier Frana,Argentina,ARG,false,2037,19,1995-07-10,1995-06-26,Nottingham,1995,B,28
+284,Bernard Tomic,Australia,AUS,false,2037,21,2015-03-23,2016-02-01,Australian Open,2016,G,23
+285,Jan Lennard Struff,Germany,GER,true,2037,24,2020-09-14,2019-06-17,Stuttgart,2019,B,29
+286,Tim Wilkison,United States,USA,false,2036,18,1986-09-09,1986-09-09,US Open,1986,G,26
+287,Terry Moor,United States,USA,false,2035,29,1981-03-02,1981-03-02,Memphis,1981,M,28
+288,Francisco Clavet,Spain,ESP,false,2035,24,1999-03-26,1999-05-10,Hamburg Masters,1999,M,30
+289,Xavier Malisse,Belgium,BEL,false,2035,24,2002-03-11,2002-09-27,Davis Cup WG,2002,D,22
+290,Olivier Rochus,Belgium,BEL,false,2035,18,2006-05-08,2006-05-08,Munich,2006,B,25
+291,Owen Davidson,Australia,AUS,false,2034,20,1969-05-16,1969-04-22,Monte Carlo,1969,A,25
+292,Vincent Spadea,United States,USA,false,2034,20,1999-09-20,1999-09-13,US Open,1999,G,25
+293,Jarkko Nieminen,Finland,FIN,false,2034,19,2006-03-17,2006-07-28,Kitzbuhel,2006,A,25
+294,Jan Leschly,Denmark,DEN,false,2033,3,1968-02-19,1968-02-27,Macon,1968,B,27
+295,Andrea Gaudenzi,Italy,ITA,false,2033,19,1995-05-29,1995-05-15,Hamburg Masters,1995,M,21
+296,Filip Krajinovic,Serbia,SRB,true,2033,25,2020-08-31,2020-09-21,Rome Masters,2020,M,28
+297,Reilly Opelka,United States,USA,false,2033,19,2022-04-11,2022-04-11,Houston,2022,B,24
+298,Paul Mcnamee,Australia,AUS,false,2032,25,1983-06-13,1983-06-13,Queen's Club,1983,M,28
+299,Ramesh Krishnan,India,IND,false,2032,19,1988-01-11,1988-01-11,Auckland,1988,B,26
+300,Thomaz Koch,Brazil,BRA,false,2031,23,1971-05-22,1971-04-29,Davis Cup SAM,1971,D,25
+301,Ulrich Pinner,Germany,GER,false,2031,31,1979-08-27,1979-07-23,Stuttgart Outdoor,1979,B,25
+302,Andreas Seppi,Italy,ITA,false,2030,21,2015-08-03,2013-07-08,Wimbledon,2013,G,29
+303,Jacco Eltingh,Netherlands,NED,false,2028,19,1995-07-17,1995-07-10,Wimbledon,1995,G,24
+304,John Lloyd,United Kingdom,GBR,false,2027,26,1986-02-10,1978-06-26,Queen's Club,1978,B,23
+305,Mariano Zabaleta,Argentina,ARG,false,2027,22,2003-08-25,2003-08-18,Cincinnati Masters,2003,M,25
+306,Julien Benneteau,France,FRA,false,2027,25,2013-02-18,2013-02-18,Rotterdam,2013,A,31
+307,Jerzy Janowicz,Poland,POL,false,2027,25,2014-02-17,2013-08-12,Canada Masters,2013,M,22
+308,Francois Jauffret,France,FRA,false,2026,27,1974-07-26,1976-06-14,Roland Garros,1976,G,34
+309,Bill Bowrey,Australia,AUS,false,2025,14,1968-04-01,1968-04-01,New York 1,1968,B,24
+310,Hicham Arazi,Morocco,MAR,false,2025,24,2002-01-07,2002-01-07,Adelaide,2002,B,28
+311,Brian Fairlie,New Zealand,NZL,false,2023,26,1973-04-16,1973-04-16,Cleveland WCT,1973,B,24
+312,David Pate,United States,USA,false,2023,18,1987-10-26,1987-06-15,Queen's Club,1987,M,25
+313,Jaime Yzaga,Peru,PER,false,2022,21,1994-06-06,1992-04-20,Tampa,1992,B,24
+314,Renzo Furlan,Italy,ITA,false,2021,23,1996-03-18,1996-07-29,Atlanta Olympics,1996,O,26
+315,Fernando Meligeni,Brazil,BRA,false,2021,24,1999-06-21,1999-06-07,Roland Garros,1999,G,28
+316,Ivan Dodig,Croatia,CRO,false,2021,27,2013-10-07,2013-10-07,Tokyo,2013,A,28
+317,Albert Montanes,Spain,ESP,false,2019,29,2010-07-19,2010-11-01,Montpellier,2010,B,29
+318,Christian Bergstrom,Sweden,SWE,false,2018,25,1993-02-01,1993-02-01,Australian Open,1993,G,25
+319,Marton Fucsovics,Hungary,HUN,true,2018,21,2021-04-04,2021-07-12,Wimbledon,2021,G,29
+320,Ronald Agenor,United States,USA,false,2017,25,1988-08-01,1988-08-01,Bordeaux,1988,B,23
+321,Christo Van Rensburg,South Africa,RSA,false,2017,25,1989-08-21,1989-07-10,Wimbledon,1989,G,26
+322,Bohdan Ulihrach,Czech Republic,CZE,false,2016,25,1996-09-09,1998-11-02,Stuttgart Masters,1998,M,23
+323,Jeremy Chardy,France,FRA,true,2016,23,2015-09-14,2015-09-14,US Open,2015,G,28
+324,Karl Meiler,Germany,GER,false,2015,34,1974-02-03,1976-08-16,Indianapolis,1976,M,27
+325,Marc Kevin Goellner,Germany,GER,false,2014,29,1993-07-26,1993-10-01,Basel,1993,B,23
+326,Albert Ramos,Spain,ESP,true,2014,25,2017-05-01,2017-05-01,Barcelona,2017,A,29
+327,Francisco Cerundolo,Argentina,ARG,true,2014,23,2023-07-03,2023-07-03,Eastbourne,2023,B,24
+328,Jiri Hrebec,Czech Republic,CZE,false,2013,28,1974-04-15,1974-04-14,Orlando WCT,1974,B,23
+329,Ismail El Shafei,Egypt,EGY,false,2013,27,1974-07-15,1974-07-08,Wimbledon,1974,G,26
+330,Ray Ruffels,Australia,AUS,false,2012,14,1968-03-11,1972-02-13,Philadelphia WCT,1972,M,25
+331,Michael Llodra,France,FRA,false,2012,31,2011-04-03,2010-11-14,Paris Masters,2010,M,30
+332,John Fitzgerald,Australia,AUS,false,2011,27,1984-03-26,1984-03-26,Milan,1984,A,23
+333,Brett Steven,New Zealand,NZL,false,2011,21,1995-09-11,1995-09-11,US Open,1995,G,26
+334,Jose Acasuso,Argentina,ARG,false,2011,24,2006-08-14,2006-08-14,Canada Masters,2006,M,23
+335,Carlos Kirmayr,Brazil,BRA,false,2010,31,1981-10-09,1981-10-26,Vienna,1981,B,31
+336,Peter Lundgren,Sweden,SWE,false,2010,22,1987-10-05,1987-11-09,Stockholm,1987,A,22
+337,Chris Woodruff,United States,USA,false,2010,26,2000-01-31,1997-08-04,Canada Masters,1997,M,24
+338,Christian Garin,Chile,CHI,true,2010,26,2021-06-13,2021-07-12,Wimbledon,2021,G,25
+339,Paolo Cane,Italy,ITA,false,2009,29,1989-09-11,1989-08-07,Bastad,1989,B,24
+340,Slava Dosedel,Czech Republic,CZE,false,2009,32,1998-05-25,1998-05-25,Dusseldorf,1998,T,27
+341,Franco Squillari,Argentina,ARG,false,2009,27,2000-07-28,2000-07-24,Stuttgart Outdoor,2000,A,24
+342,Guillermo Garcia Lopez,Spain,ESP,false,2009,30,2014-06-09,2010-10-17,Shanghai Masters,2010,M,27
+343,Guido Pella,Argentina,ARG,true,2009,29,2019-08-12,2019-08-12,Canada Masters,2019,M,29
+344,Byron Black,Zimbabwe,ZIM,false,2008,21,1996-01-08,1998-07-06,Wimbledon,1998,G,28
+345,Bernd Karbacher,Germany,GER,false,2007,25,1995-08-21,1995-08-21,Indianapolis,1995,A,27
+346,Georges Goven,France,FRA,false,2005,28,1972-02-08,1972-02-13,Des Moines,1972,B,23
+347,Jordi Arrese,Spain,ESP,false,2005,30,1991-11-04,1991-11-04,Buzios,1991,B,27
+348,Dan Goldie,United States,USA,false,2004,26,1988-06-06,1988-04-25,Seoul,1988,B,24
+349,Marcel Granollers,Spain,ESP,true,2004,29,2013-11-04,2013-11-04,Paris Masters,2013,M,27
+350,Pablo Cuevas,Uruguay,URU,false,2004,26,2016-05-09,2017-05-15,Madrid Masters,2017,M,31
+351,Adrian Mannarino,France,FRA,true,2004,29,2018-01-15,2018-01-29,Australian Open,2018,G,29
+352,Fritz Buehning,United States,USA,false,2003,32,1982-03-15,1981-03-16,Brussels,1981,B,21
+353,Ulf Stenlund,Sweden,SWE,false,2003,24,1987-04-27,1987-04-27,Monte Carlo,1987,M,20
+354,Benoit Paire,France,FRA,true,2003,25,2016-01-11,2016-01-11,Chennai,2016,B,26
+355,Bob Carmichael,Australia,AUS,false,2002,27,1971-03-14,1971-03-21,Auckland,1971,B,30
+356,Ugo Humbert,France,FRA,true,2002,25,2021-01-11,2020-11-09,Paris Masters,2020,M,22
+357,Daniel Evans,United Kingdom,GBR,true,2002,25,2021-02-08,2021-02-08,Murray River Open,2021,B,30
+358,Kelly Evernden,New Zealand,NZL,false,2001,23,1987-10-12,1987-10-12,Brisbane,1987,B,26
+359,Jurgen Fassbender,Germany,GER,false,2000,29,1973-07-09,1973-07-09,Wimbledon,1973,G,25
+360,Chris Lewis Nzl,New Zealand,NZL,false,2000,31,1983-07-18,1983-07-18,Stuttgart Outdoor,1983,B,26
+361,Libor Pimek,Belgium,BEL,false,2000,26,1984-05-21,1984-08-20,Columbus,1984,B,21
+362,Robert Seguso,United States,USA,false,1999,22,1987-03-20,1987-03-09,Key Biscayne,1987,M,23
+363,Franco Davin,Argentina,ARG,false,1999,31,1990-10-08,1990-10-08,Athens,1990,B,20
+364,Leonardo Mayer,Argentina,ARG,false,1999,28,2014-08-11,2014-09-19,Davis Cup WG,2014,D,27
+365,Lorenzo Musetti,Italy,ITA,true,1999,22,2023-08-20,2023-08-20,Cincinnati Masters,2023,M,21
+366,Andrey Kuznetsov,Russian Federation,RUS,true,1998,30,2016-09-23,2016-09-23,St. Petersburg,2016,B,25
+367,Martin Klizan,Slovakia,SVK,false,1998,26,2018-10-01,2018-09-24,St. Petersburg,2018,B,29
+368,Alejandro Davidovich Fokina,Spain,ESP,true,1998,22,2023-09-11,2021-06-13,Roland Garros,2021,G,22
+369,Aslan Karatsev,Russian Federation,RUS,true,1998,26,2021-05-30,2022-01-17,Sydney,2022,B,28
+370,Botic Van De Zandschulp,Netherlands,NED,true,1998,27,2022-09-24,2022-09-24,Davis Cup Finals,2022,D,26
+371,Geoff Masters,Australia,AUS,false,1997,35,1975-03-03,1975-10-26,Sydney Indoor,1975,A,25
+372,Scott Draper,Australia,AUS,false,1996,32,1999-01-11,1999-01-11,Adelaide,1999,B,24
+373,Thomaz Bellucci,Brazil,BRA,true,1996,33,2012-07-23,2010-07-26,Hamburg,2010,A,22
+374,Lorenzo Sonego,Italy,ITA,true,1996,25,2021-05-24,2021-05-16,Rome Masters,2021,M,26
+375,Raymond Moore,South Africa,RSA,false,1995,33,1973-05-25,1977-09-14,US Open,1977,G,31
+376,Shlomo Glickstein,Israel,ISR,false,1995,34,1981-11-30,1981-11-30,Johannesburg,1981,B,23
+377,Patrick McEnroe,United States,USA,false,1994,25,1995-09-29,1995-10-09,Kuala Lumpur,1995,B,29
+378,Damir Dzumhur,Bosnia and Herzegovina,BIH,true,1994,32,2017-10-02,2017-10-23,Moscow,2017,B,25
+379,Henrik Holm,Sweden,SWE,false,1993,32,1992-11-02,1992-11-02,Stockholm Masters,1992,M,24
+380,Albert Portas,Spain,ESP,false,1993,30,2001-05-21,2001-05-21,Hamburg Masters,2001,M,27
+381,Allan Stone,Australia,AUS,false,1992,41,1975-03-31,1975-10-12,Melbourne Indoor,1975,B,29
+382,Nikoloz Basilashvili,Georgia,GEO,true,1990,30,2019-01-07,2019-01-07,Doha,2019,B,26
+383,Dick Crealy,Australia,AUS,false,1989,25,1968-04-22,1970-07-25,Cincinnati,1970,B,25
+384,Javier Sanchez,Spain,ESP,false,1989,30,1994-05-23,1993-09-13,US Open,1993,G,25
+385,Pierre Hugues Herbert,France,FRA,false,1989,32,2019-06-24,2019-06-24,Halle,2019,A,28
+386,Chip Hooper,United States,USA,false,1988,36,1983-03-28,1983-03-28,Milan,1983,A,24
+387,Lloyd George Muirhead Harris,South Africa,RSA,true,1988,30,2021-09-13,2021-10-25,Antwerp,2021,B,24
+388,Denis Istomin,Uzbekistan,UZB,false,1987,31,2014-07-14,2014-07-07,Wimbledon,2014,G,27
+389,Vasek Pospisil,Canada,CAN,true,1987,30,2021-02-08,2020-11-16,Sofia,2020,B,30
+390,Ilya Ivashka,Belarus,BLR,true,1987,29,2021-09-13,2021-11-08,Paris Masters,2021,M,27
+391,Van Winitsky,United States,USA,false,1986,39,1982-05-04,1982-05-04,Hilton Head WCT,1982,B,23
+392,Filippo Volandri,Italy,ITA,false,1986,30,2007-06-18,2007-06-11,Roland Garros,2007,G,25
+393,Juan Gisbert,Spain,ESP,false,1985,19,1968-04-01,1972-03-12,Hampton,1972,B,29
+394,Daniel Vacek,Czech Republic,CZE,false,1985,23,1995-11-13,1995-11-13,Moscow,1995,B,24
+395,Mikael Tillstrom,Sweden,SWE,false,1985,33,1996-07-08,1997-04-14,Chennai,1997,B,25
+396,Gerald Battrick,United Kingdom,GBR,false,1984,30,1972-02-27,1972-02-27,Salisbury,1972,B,24
+397,Colin Dibley,Australia,AUS,false,1984,32,1973-02-05,1973-01-29,Lacosta WCT,1973,B,28
+398,Vincent Van Patten,United States,USA,false,1984,37,1982-01-11,1981-11-02,Tokyo Indoor,1981,A,24
+399,Robert Vant Hof,United States,USA,false,1984,35,1983-08-08,1983-08-22,Cincinnati,1983,M,24
+400,Andreas Vinciguerra,Sweden,SWE,false,1984,32,2001-02-26,2001-02-26,Rotterdam,2001,A,20
+401,Jenson Brooksby,United States,USA,true,1984,31,2022-04-03,2022-04-03,Miami Masters,2022,M,21
+402,Istvan Gulyas,Hungary,HUN,false,1983,16,1968-04-01,1968-07-29,Hilversum,1968,B,36
+403,Pascal Portes,France,FRA,false,1983,43,1981-02-02,1981-02-02,Philadelphia,1981,M,21
+404,Gilbert Schaller,Austria,AUT,false,1982,27,1995-10-16,1995-10-09,Valencia,1995,B,26
+405,Julien Boutter,France,FRA,false,1982,32,2002-05-20,2002-05-20,Hamburg Masters,2002,M,28
+406,Lukas Rosol,Czech Republic,CZE,true,1982,29,2014-08-24,2014-08-24,Winston-Salem,2014,B,29
+407,Horacio De La Pena,Argentina,ARG,false,1981,30,1986-08-11,1986-08-25,Cincinnati,1986,M,20
+408,Ron Holmberg,United States,USA,false,1980,22,1968-04-22,1968-09-12,US Open,1968,G,30
+409,Martin Verkerk,Netherlands,NED,false,1980,34,2004-10-04,2003-06-09,Roland Garros,2003,G,24
+410,Jan Gunnarsson,Sweden,SWE,false,1979,26,1987-08-17,1987-08-03,Bastad,1987,B,25
+411,Christian Kuhnke,Germany,GER,false,1977,31,1971-06-14,1971-05-31,Berlin,1971,B,32
+412,Yoshihito Nishioka,Japan,JPN,true,1977,32,2023-01-30,2020-02-24,Delray Beach,2020,B,24
+413,Miomir Kecmanovic,Serbia,SRB,true,1977,27,2022-08-08,2022-08-08,Los Cabos,2022,B,22
+414,Nicola Pietrangeli,Italy,ITA,false,1976,20,1968-04-22,1968-05-30,Davis Cup EUR,1968,D,34
+415,Erik Van Dillen,United States,USA,false,1976,34,1973-09-12,1973-08-27,Toronto,1973,M,22
+416,Francesco Cancellotti,Italy,ITA,false,1976,33,1984-09-24,1984-09-24,Bordeaux,1984,B,21
+417,Alex Antonitsch,Austria,AUT,false,1976,37,1990-07-16,1990-07-09,Wimbledon,1990,G,24
+418,Philipp Petzschner,Germany,GER,false,1976,36,2011-06-19,2011-07-15,Stuttgart,2011,B,27
+419,Donald Young,United States,USA,false,1976,34,2017-04-03,2017-04-03,Miami Masters,2017,M,27
+420,Alejandro Olmedo,Peru,PER,false,1975,29,1968-07-14,1968-07-14,Paris 2,1968,M,32
+421,Mark Dickson,United States,USA,false,1975,30,1984-11-26,1984-11-26,Toulouse,1984,B,24
+422,Guillaume Raoux,France,FRA,false,1975,39,1998-03-02,1998-02-23,Antwerp,1998,A,28
+423,Nicolas Jarry,Chile,CHI,true,1975,27,2023-07-24,2023-08-07,Los Cabos,2023,B,27
+424,Haroon Rahim,Pakistan,PAK,false,1974,42,1976-03-16,1976-03-08,Little Rock,1976,B,26
+425,Jonathan Stark,United States,USA,false,1974,31,1994-03-07,1994-03-07,Indian Wells Masters,1994,M,22
+426,Joao Sousa,Portugal,POR,true,1974,32,2016-02-01,2016-02-01,Australian Open,2016,G,26
+427,Jim Pugh,United States,USA,false,1973,36,1989-08-07,1989-08-07,Stratton Mountain,1989,B,25
+428,Patrick Proisy,France,FRA,false,1972,32,1972-06-05,1973-07-22,Gstaad,1973,B,23
+429,Sergio Casal,Spain,ESP,false,1971,29,1987-03-20,1987-03-20,Davis Cup WG,1987,D,24
+430,Eric Jelen,Germany,GER,false,1971,33,1988-07-29,1989-07-10,Wimbledon,1989,G,24
+431,Marcelo Filippini,Uruguay,URU,false,1971,39,1997-05-26,1997-05-26,St. Poelten,1997,B,29
+432,Michiel Schapers,Netherlands,NED,false,1970,33,1988-03-14,1988-02-29,Metz,1988,B,28
+433,Nicklas Kulti,Sweden,SWE,false,1970,41,1994-02-14,1991-01-07,Adelaide,1991,B,19
+434,Olivier Delaitre,France,FRA,false,1970,38,1995-02-20,1995-02-20,Milan,1995,A,27
+435,Stefan Koubek,Austria,AUT,false,1970,38,2000-03-06,2000-03-06,Delray Beach,2000,B,23
+436,Santiago Giraldo,Colombia,COL,false,1970,32,2014-05-11,2012-06-10,Roland Garros,2012,G,24
+437,Nicolas Mahut,France,FRA,false,1970,35,2016-10-10,2013-09-23,Metz,2013,B,31
+438,Jack Draper,United Kingdom,GBR,true,1970,29,2023-04-10,2023-09-11,US Open,2023,G,21
+439,Rafael Osuna,Mexico,MEX,false,1969,27,1968-05-18,1968-05-18,Davis Cup AME,1968,D,29
+440,Milan Srejber,Czech Republic,CZE,false,1969,30,1986-10-06,1988-08-29,Rye Brook,1988,B,24
+441,Karim Alami,Morocco,MAR,false,1969,38,2000-02-14,2000-02-14,Dubai,2000,B,26
+442,Frank Froehling,United States,USA,false,1968,33,1971-10-15,1971-10-15,Davis Cup WG,1971,D,29
+443,Jared Palmer,United States,USA,false,1968,36,1994-11-14,1994-11-14,Antwerp,1994,B,23
+444,Filip Dewulf,Belgium,BEL,false,1968,41,1998-07-13,1998-08-03,Kitzbuhel,1998,B,26
+445,Mischa Zverev,Germany,GER,false,1968,37,2017-01-30,2017-01-30,Australian Open,2017,G,29
+446,Alexander Bublik,Kazakhstan,KAZ,true,1968,30,2023-07-17,2023-07-17,Wimbledon,2023,G,26
+447,Jaime Oncins,Brazil,BRA,false,1967,40,1992-08-03,1992-11-16,Sao Paulo,1992,B,22
+448,Gene Scott,United States,USA,false,1966,30,1968-08-05,1968-08-05,U.S. National Chps.,1968,B,30
+449,Sammy Giammalva Jr,United States,USA,false,1966,33,1985-04-01,1985-04-01,Fort Myers,1985,A,22
+450,Shuzo Matsuoka,Japan,JPN,false,1966,38,1992-07-27,1992-06-15,Queen's Club,1992,B,24
+451,Carlos Berlocq,Argentina,ARG,false,1966,33,2014-06-09,2014-06-09,Roland Garros,2014,G,31
+452,Lew Hoad,Australia,AUS,false,1965,31,1968-07-15,1968-07-15,Dublin,1968,B,33
+453,Tom Gullikson,United States,USA,false,1965,35,1985-07-22,1978-11-13,Stockholm,1978,M,27
+454,Richard Fromberg,Australia,AUS,false,1965,37,1994-08-01,1990-08-13,Cincinnati Masters,1990,M,20
+455,Rolf Gehring,Germany,GER,false,1964,46,1981-05-25,1981-05-25,Munich,1981,B,25
+456,Greg Holmes,United States,USA,false,1964,33,1985-02-25,1985-02-25,La Quinta,1985,A,21
+457,John Frawley,Australia,AUS,false,1964,37,1988-09-12,1988-09-12,US Open,1988,G,23
+458,Hyung Taik Lee,"Korea, Republic of",KOR,false,1964,38,2007-10-15,2008-03-24,Indian Wells Masters,2008,M,32
+459,Bruce Manson,United States,USA,false,1963,44,1982-01-26,1982-01-26,Mexico City WCT,1982,B,25
+460,Diego Perez,Uruguay,URU,false,1963,31,1986-05-26,1984-05-20,Rome,1984,M,22
+461,Claudio Mezzadri,Switzerland,SUI,false,1963,33,1988-02-15,1988-02-15,Rotterdam,1988,A,22
+462,Alex Obrien,United States,USA,false,1963,43,1997-01-06,1997-01-13,Sydney Outdoor,1997,B,26
+463,David Prinosil,Germany,GER,false,1963,42,2000-11-20,2000-11-20,Paris Masters,2000,M,27
+464,Alberto Martin,Spain,ESP,false,1963,39,2001-05-28,2001-05-21,Hamburg Masters,2001,M,22
+465,Emil Ruusuvuori,Finland,FIN,true,1963,33,2023-06-19,2023-06-19,'s-Hertogenbosch,2023,B,24
+466,Bernard Mitton,South Africa,RSA,false,1962,46,1977-03-28,1977-03-28,La Costa,1977,A,22
+467,Dusan Lajovic,Serbia,SRB,true,1962,35,2019-04-22,2019-04-22,Monte Carlo Masters,2019,M,28
+468,Jiri Lehecka,Czech Republic,CZE,true,1962,34,2023-07-24,2023-07-17,Wimbledon,2023,G,21
+469,Barry Mackay,United States,USA,false,1961,32,1969-04-07,1968-09-21,Los Angeles,1968,M,33
+470,Paul Gerken,United States,USA,false,1961,39,1973-09-24,1973-09-12,US Open,1973,G,23
+471,Kjell Johansson,Sweden,SWE,false,1961,42,1978-08-21,1978-05-22,Hamburg,1978,B,27
+472,Pablo Arraya,Peru,PER,false,1961,37,1984-08-13,1983-11-28,Toulouse,1983,B,22
+473,Hendrik Dreekmann,Germany,GER,false,1961,42,1996-09-30,1996-09-30,Basel,1996,B,21
+474,Cyril Saulnier,France,FRA,false,1961,41,2005-02-14,2005-02-14,San Jose,2005,B,29
+475,Kristof Vliegen,Belgium,BEL,false,1961,37,2006-05-08,2006-05-08,Munich,2006,B,23
+476,Tallon Griekspoor,Netherlands,NED,true,1961,35,2023-08-07,2023-08-07,Washington,2023,A,27
+477,Andreas Maurer,Germany,GER,false,1960,37,1985-07-22,1985-07-15,Gstaad,1985,B,27
+478,Peter Feigl,Austria,AUT,false,1959,47,1979-06-25,1979-06-22,Davis Cup EUR,1979,D,27
+479,Marty Davis,United States,USA,false,1959,34,1986-02-24,1986-02-24,Boca West,1986,M,27
+480,Sargis Sargsian,Armenia,ARM,false,1959,44,2004-01-12,2004-01-12,Doha,2004,B,30
+481,Simone Bolelli,Italy,ITA,false,1959,39,2015-08-10,2015-08-30,Winston-Salem,2015,B,29
+482,Gianni Ocleppo,Italy,ITA,false,1958,44,1984-06-18,1981-04-20,Monte Carlo,1981,A,24
+483,Jim Grabb,United States,USA,false,1958,38,1994-04-11,1992-11-09,Paris Masters,1992,M,28
+484,Luis Horna,Peru,PER,false,1958,39,2004-10-25,2004-10-25,Madrid Masters,2004,M,24
+485,Victor Hanescu,Romania,ROU,false,1958,41,2010-06-20,2010-06-07,Roland Garros,2010,G,28
+486,Brandon Nakashima,United States,USA,true,1958,35,2022-09-26,2022-09-26,San Diego,2022,B,21
+487,Patrice Dominguez,France,FRA,false,1957,44,1973-09-12,1973-09-12,US Open,1973,G,23
+488,Billy Martin,United States,USA,false,1957,47,1977-08-30,1977-08-30,Boston,1977,M,20
+489,Cristiano Caratti,Italy,ITA,false,1957,45,1991-05-20,1991-05-20,Rome Masters,1991,M,20
+490,Pancho Segura,Ecuador,ECU,false,1956,34,1969-08-20,1968-12-14,Nashville,1968,B,47
+491,Todd Witsken,United States,USA,false,1955,43,1991-05-10,1991-05-06,Munich,1991,B,27
+492,Jeff Tarango,United States,USA,false,1954,43,1998-03-27,1998-03-27,Miami Masters,1998,M,29
+493,John Millman,Australia,AUS,true,1954,38,2018-09-10,2018-09-10,US Open,2018,G,29
+494,Jim Osborne,United States,USA,false,1953,34,1970-02-22,1970-02-22,Salisbury,1970,M,25
+495,Marcos Hocevar,Brazil,BRA,false,1953,42,1982-11-29,1982-11-22,Sao Paulo,1982,B,27
+496,Grant Stafford,South Africa,RSA,false,1953,37,1994-02-11,1994-01-31,Australian Open,1994,G,22
+497,Federico Delbonis,Argentina,ARG,true,1953,41,2016-04-11,2016-04-11,Marrakech,2016,B,25
+498,Ryan Harrison,United States,USA,false,1953,38,2017-02-27,2018-03-05,Acapulco,2018,A,25
+499,Marco Cecchinato,Italy,ITA,true,1953,39,2018-07-23,2018-07-23,Umag,2018,B,25
+500,Jiri Vesely,Czech Republic,CZE,true,1952,38,2017-08-07,2017-06-12,Roland Garros,2017,G,23
+501,Rod Frawley,Australia,AUS,false,1951,51,1982-04-19,1982-04-05,Frankfurt,1982,B,29
+502,Mario Martinez,"Bolivia, Plurinational State of",BOL,false,1950,45,1983-09-13,1981-08-04,North Conway,1981,M,19
+503,Chuck Adams,United States,USA,false,1950,42,1995-01-16,1994-08-29,Schenectady,1994,B,23
+504,Flavio Saretta,Brazil,BRA,false,1950,52,2003-09-08,2003-09-08,US Open,2003,G,23
+505,Steve Darcis,Belgium,BEL,false,1950,41,2017-04-14,2012-09-21,Davis Cup WG,2012,D,28
+506,Patrik Kuhnen,Germany,GER,false,1949,41,1990-02-26,1990-04-30,Hong Kong,1990,B,24
+507,Jan Apell,Sweden,SWE,false,1949,42,1995-07-24,1995-08-21,Indianapolis,1995,A,25
+508,Graham Stilwell,United Kingdom,GBR,false,1948,34,1970-03-04,1969-11-24,Wembley,1969,M,24
+509,Gianluca Pozzi,Italy,ITA,false,1948,46,2000-10-09,2000-11-20,Paris Masters,2000,M,35
+510,Wayne Arthurs,Australia,AUS,false,1948,45,2001-06-25,2001-06-25,Nottingham,2001,B,30
+511,Marinko Matosevic,Australia,AUS,false,1948,38,2014-09-29,2014-09-29,Kuala Lumpur,2014,B,29
+512,Ben Testerman,United States,USA,false,1947,41,1984-12-17,1984-12-17,Sydney Outdoor,1984,B,22
+513,Marcos Ondruska,South Africa,RSA,false,1947,43,1993-03-23,1993-03-23,Miami Masters,1993,M,20
+514,Tomas Carbonell,Spain,ESP,false,1947,43,1996-04-15,1996-04-15,Estoril,1996,B,27
+515,Sergiy Stakhovsky,Ukraine,UKR,false,1947,44,2010-08-29,2010-08-29,New Haven,2010,B,24
+516,Edouard Roger Vasselin,France,FRA,false,1947,40,2014-03-30,2014-03-30,Miami Masters,2014,M,30
+517,Pedro Rebolledo,Chile,CHI,false,1946,52,1982-02-01,1982-02-01,Vina del Mar,1982,B,21
+518,Matt Anger,United States,USA,false,1946,38,1986-03-17,1986-02-24,Boca West,1986,M,22
+519,Robin Haase,Netherlands,NED,true,1946,44,2011-09-26,2011-09-12,US Open,2011,G,24
+520,Mike Leach,United States,USA,false,1945,39,1986-07-28,1986-07-28,Livingston,1986,B,26
+521,Thiemo De Bakker,Netherlands,NED,false,1945,46,2010-09-24,2010-09-13,US Open,2010,G,21
+522,Laslo Djere,Serbia,SRB,true,1945,38,2023-09-11,2023-09-11,US Open,2023,G,28
+523,Ken Fletcher,Australia,AUS,false,1944,37,1968-07-15,1968-07-15,Dublin,1968,B,28
+524,Marian Vajda,Slovakia,SVK,false,1944,37,1987-08-17,1987-08-17,Prague,1987,B,22
+525,Luiz Mattar,Brazil,BRA,false,1944,43,1988-02-01,1994-05-16,Coral Springs,1994,B,30
+526,Kenneth Carlsen,Denmark,DEN,false,1944,49,1995-05-29,1995-10-16,Tokyo Indoor,1995,A,22
+527,Mackenzie Mcdonald,United States,USA,true,1944,37,2023-04-02,2023-04-02,Miami Masters,2023,M,27
+528,Sebastian Baez,Argentina,ARG,true,1944,40,2023-09-11,2023-09-11,US Open,2023,G,22
+529,Edison Mandarino,Brazil,BRA,false,1943,35,1969-04-14,1968-11-18,Buenos Aires,1968,B,27
+530,Han Jurgen Pohmann,Germany,GER,false,1943,51,1976-10-11,1976-10-11,Tehran,1976,B,29
+531,Byron Bertram,South Africa,RSA,false,1943,52,1978-02-27,1977-07-04,Wimbledon,1977,G,24
+532,Ricardo Cano,Argentina,ARG,false,1943,50,1977-08-23,1977-08-23,Toronto,1977,A,26
+533,Eduardo Bengoechea,Argentina,ARG,false,1943,41,1987-10-09,1989-04-03,Key Biscayne,1989,M,29
+534,Christian Ruud,Norway,NOR,false,1943,47,1997-05-12,1997-05-19,Rome Masters,1997,M,24
+535,Mikhail Kukushkin,Kazakhstan,KAZ,true,1943,41,2019-02-25,2019-02-25,Marseille,2019,B,31
+536,Vladimir Voltchkov,Belarus,BLR,false,1942,48,2001-02-26,2001-02-26,Rotterdam,2001,A,22
+537,Florent Serra,France,FRA,false,1942,44,2010-04-18,2010-06-07,Roland Garros,2010,G,29
+538,Dudi Sela,Israel,ISR,false,1941,45,2009-07-06,2009-07-17,Davis Cup WG,2009,D,24
+539,Alex Molcan,Slovakia,SVK,true,1941,41,2022-07-25,2022-07-25,Hamburg,2022,A,24
+540,Antonio Zugarelli,Italy,ITA,false,1940,51,1977-07-19,1977-07-10,Bastad,1977,B,27
+541,Stefano Pescosolido,Italy,ITA,false,1940,46,1994-06-06,1994-01-10,Doha,1994,B,22
+542,Tennys Sandgren,United States,USA,false,1940,48,2020-08-31,2020-08-31,Cincinnati Masters,2020,M,29
+543,Trey Waltke,United States,USA,false,1939,53,1980-11-17,1981-03-16,Brussels,1981,B,26
+544,Eric Fromm,United States,USA,false,1939,49,1983-06-06,1983-06-06,Roland Garros,1983,G,24
+545,Hernan Gumy,Argentina,ARG,false,1939,47,1996-02-16,1996-01-29,Australian Open,1996,G,23
+546,Aljaz Bedene,Slovenia,SLO,false,1939,42,2018-05-21,2018-05-21,Rome Masters,2018,M,28
+547,Mark Koevermans,Netherlands,NED,false,1938,54,1990-10-08,1991-05-20,Rome Masters,1991,M,23
+548,Davide Sanguinetti,Italy,ITA,false,1938,50,2002-03-11,2002-03-29,Miami Masters,2002,M,29
+549,Marc Gicquel,France,FRA,false,1938,44,2007-02-26,2007-02-26,Rotterdam,2007,A,29
+550,Alex Bogomolov Jr,Russian Federation,RUS,false,1938,47,2012-01-16,2012-01-16,Sydney,2012,B,28
+551,Mikael Ymer,Sweden,SWE,true,1938,43,2022-11-07,2022-11-07,Paris Masters,2022,M,24
+552,Nick Saviano,United States,USA,false,1937,52,1980-11-17,1979-11-12,Stockholm,1979,B,23
+553,Potito Starace,Italy,ITA,false,1937,46,2007-08-05,2007-07-30,Kitzbuhel,2007,A,26
+554,Pierre Darmon,France,FRA,false,1936,38,1968-07-28,1968-07-28,Gstaad,1968,B,34
+555,Mike Belkin,Canada,CAN,false,1936,20,1968-04-15,1971-07-31,Tanglewood,1971,B,26
+556,Jose Luis Damiani,Uruguay,URU,false,1936,54,1981-11-09,1981-09-28,Geneva,1981,B,24
+557,Radu Albot,"Moldova, Republic of",MDA,true,1936,45,2019-04-01,2019-05-27,Geneva,2019,B,29
+558,Mike Bauer,United States,USA,false,1935,45,1984-05-01,1984-04-16,Luxembourg,1984,B,24
+559,Jonathan Canter,United States,USA,false,1935,40,1986-09-15,1986-09-22,Los Angeles,1986,B,21
+560,Sandon Stolle,Australia,AUS,false,1935,46,1997-09-26,1997-08-04,Canada Masters,1997,M,27
+561,Adrian Voinea,Romania,ROU,false,1935,50,2002-05-20,2002-05-20,Hamburg Masters,2002,M,27
+562,Karol Beck,Slovakia,SVK,false,1935,49,2005-02-14,2005-02-14,Marseille,2005,B,22
+563,Peter Gojowczyk,Germany,GER,false,1935,44,2018-02-26,2018-02-26,Delray Beach,2018,B,28
+564,Fernando Luna,Spain,ESP,false,1934,51,1984-05-14,1982-08-02,North Conway,1982,M,24
+565,Jan Kroslak,Slovakia,SVK,false,1934,47,1997-03-24,1997-03-24,St. Petersburg,1997,B,22
+566,Marcos Giron,United States,USA,true,1934,41,2022-02-28,2022-02-28,Acapulco,2022,A,28
+567,Leonardo Lavalle,Mexico,MEX,false,1933,49,1989-06-12,1989-07-28,Davis Cup WG,1989,D,22
+568,Michel Kratochvil,Switzerland,SUI,false,1933,52,2002-07-08,2002-07-08,Wimbledon,2002,G,23
+569,Yuichi Sugita,Japan,JPN,false,1933,43,2017-10-23,2017-10-23,Stockholm,2017,B,29
+570,Barry Phillips Moore,Australia,AUS,false,1932,32,1968-04-29,1972-07-29,Dusseldorf,1972,B,35
+571,Frew Mcmillan,South Africa,RSA,false,1932,47,1973-01-08,1978-07-10,Wimbledon,1978,G,36
+572,Matt Doyle,United States,USA,false,1932,48,1984-01-30,1983-10-31,Cologne,1983,B,25
+573,Fernando Vicente,Spain,ESP,false,1932,53,1999-08-02,1999-08-02,Kitzbuhel,1999,A,22
+574,Arnaud Di Pasquale,France,FRA,false,1932,55,1999-08-23,1999-10-11,Palermo,1999,B,20
+575,Egor Gerasimov,Belarus,BLR,false,1932,46,2021-03-08,2020-03-13,Davis Cup QLS,2020,D,27
+576,Tomas Martin Etcheverry,Argentina,ARG,true,1932,44,2023-06-11,2023-06-11,Roland Garros,2023,G,23
+577,Christopher Eubanks,United States,USA,true,1932,44,2023-07-24,2023-07-17,Wimbledon,2023,G,27
+578,Pavel Slozil,Czech Republic,CZE,false,1930,46,1984-10-29,1981-03-23,Nancy,1981,B,25
+579,Peter Elter,Germany,GER,false,1930,56,1982-07-19,1982-07-19,Stuttgart Outdoor,1982,B,24
+580,Stefan Simonsson,Sweden,SWE,false,1930,48,1983-05-23,1983-05-23,Rome,1983,B,23
+581,Andrey Golubev,Kazakhstan,KAZ,false,1930,53,2011-01-09,2010-10-04,Kuala Lumpur,2010,B,23
+582,Grant Connell,Canada,CAN,false,1929,56,1991-03-04,1991-03-04,Chicago,1991,B,25
+583,Galo Blanco,Spain,ESP,false,1929,51,2001-07-30,2001-07-30,Kitzbuhel,2001,A,24
+584,Pablo Andujar,Spain,ESP,true,1929,49,2014-10-27,2015-07-13,Wimbledon,2015,G,29
+585,Soon Woo Kwon,"Korea, Republic of",KOR,true,1929,47,2023-01-16,2023-01-16,Adelaide,2023,B,25
+586,Nicklas Kroon,Sweden,SWE,false,1928,53,1990-07-09,1990-07-09,Wimbledon,1990,G,24
+587,Thierry Champion,France,FRA,false,1928,59,1991-09-27,1991-10-07,Toulouse,1991,B,25
+588,Maxime Cressy,United States,USA,true,1928,42,2023-02-13,2023-02-20,Rotterdam,2023,A,25
+589,Leander Paes,India,IND,false,1927,54,1998-08-24,1998-08-24,New Haven,1998,A,25
+590,Horacio Zeballos,Argentina,ARG,true,1927,50,2017-06-12,2017-06-12,Roland Garros,2017,G,32
+591,Jared Donaldson,United States,USA,false,1927,48,2017-10-16,2017-10-16,Shanghai Masters,2017,M,21
+592,Andrew Ilie,Australia,AUS,false,1926,56,2000-06-12,2000-06-12,Roland Garros,2000,G,24
+593,Pedro Martinez Portero,Spain,ESP,true,1926,43,2022-04-17,2022-04-17,Monte Carlo Masters,2022,M,24
+594,Jeffrey John Wolf,United States,USA,true,1926,43,2023-02-13,2023-02-13,Dallas,2023,B,24
+595,Ivan Molina,Colombia,COL,false,1925,58,1975-11-02,1975-11-02,Paris Indoor,1975,A,29
+596,Russell Simpson,New Zealand,NZL,false,1925,56,1982-07-16,1982-07-16,Stuttgart Outdoor,1982,B,28
+597,Mike De Palmer,United States,USA,false,1925,52,1983-05-13,1983-05-02,Tampa,1983,B,21
+598,Jamie Morgan,Australia,AUS,false,1925,52,1993-10-11,1993-10-11,Sydney Indoor,1993,A,22
+599,Martin Damm,Czech Republic,CZE,false,1924,54,1998-02-09,1997-03-28,Miami Masters,1997,M,24
+600,Tarik Benhabiles,France,FRA,false,1922,50,1987-06-08,1987-06-08,Roland Garros,1987,G,22
+601,Mauricio Hadad,Colombia,COL,false,1922,53,1996-03-18,1996-02-16,Davis Cup G2,1996,D,24
+602,Yen Hsun Lu,"Taiwan, Province of China",TPE,false,1922,50,2014-08-24,2014-08-24,Winston-Salem,2014,B,31
+603,Malek Jaziri,Tunisia,TUN,true,1922,52,2017-04-03,2017-04-03,Miami Masters,2017,M,33
+604,Robert Maud,South Africa,RSA,false,1921,40,1968-06-10,1971-06-14,Bristol,1971,A,24
+605,Jimmy Brown,United States,USA,false,1921,53,1983-08-22,1983-08-08,Indianapolis,1983,B,18
+606,Michael Westphal,Germany,GER,false,1921,51,1985-10-11,1985-05-06,Hamburg,1985,A,20
+607,Andrei Olhovskiy,Russian Federation,RUS,false,1921,58,1993-03-08,1993-03-08,Copenhagen,1993,B,26
+608,Michael Tebbutt,Australia,AUS,false,1921,50,1996-03-29,1996-03-29,Miami Masters,1996,M,25
+609,Daniel Brands,Germany,GER,false,1921,55,2013-07-29,2014-01-06,Doha,2014,B,26
+610,Corentin Moutet,France,FRA,true,1921,48,2022-11-07,2022-11-07,Paris Masters,2022,M,23
+611,Per Hjertquist,Sweden,SWE,false,1920,61,1981-03-16,1981-03-13,Davis Cup WG,1981,D,20
+612,Lawson Duncan,United States,USA,false,1920,55,1989-06-12,1989-06-12,Roland Garros,1989,G,24
+613,Andrew Sznajder,Canada,CAN,false,1920,59,1990-08-13,1990-08-13,Cincinnati Masters,1990,M,23
+614,Wesley Moodie,South Africa,RSA,false,1920,53,2005-10-10,2005-10-10,Tokyo,2005,A,26
+615,Dominik Koepfer,Germany,GER,true,1920,52,2021-12-04,2021-12-04,Davis Cup Finals,2021,D,27
+616,Yannick Hanfmann,Germany,GER,true,1920,48,2023-05-21,2023-07-01,Mallorca,2023,B,31
+617,Jean Philippe Fleurian,France,FRA,false,1918,54,1990-04-06,1990-03-27,Miami Masters,1990,M,24
+618,Raemon Sluiter,Netherlands,NED,false,1918,57,2003-02-24,2003-02-24,Rotterdam,2003,A,24
+619,Hans Kary,Austria,AUT,false,1917,60,1976-05-28,1976-05-24,Hamburg,1976,B,27
+620,John Austin,United States,USA,false,1917,64,1981-08-10,1981-08-10,Columbus,1981,B,24
+621,Christo Steyn,South Africa,RSA,false,1917,49,1986-10-13,1986-10-13,Tel Aviv,1986,B,25
+622,Gilad Bloom,Israel,ISR,false,1917,62,1990-12-07,1990-10-22,Lyon,1990,B,23
+623,Benjamin Becker,Germany,GER,false,1917,50,2015-02-02,2015-02-02,Australian Open,2015,G,33
+624,Oscar Otte,Germany,GER,true,1917,47,2022-08-21,2022-07-11,Wimbledon,2022,G,28
+625,John Cooper,Australia,AUS,false,1916,46,1972-10-30,1972-09-13,US Open,1972,G,25
+626,Jay Lapidus,United States,USA,false,1916,55,1983-03-14,1982-12-21,Hartford WCT,1982,B,23
+627,Paul Chamberlin,United States,USA,false,1916,60,1989-07-31,1989-07-31,Washington,1989,B,27
+628,Lukasz Kubot,Poland,POL,false,1916,52,2010-02-15,2011-07-18,Stuttgart,2011,B,29
+629,Dustin Brown,Germany,GER,false,1916,51,2017-01-09,2016-07-25,Gstaad,2016,B,31
+630,Alexei Popyrin,Australia,AUS,true,1916,52,2021-04-04,2021-05-09,Madrid Masters,2021,M,21
+631,Roman Safiullin,Russian Federation,RUS,true,1916,51,2023-09-27,2023-09-27,Chengdu,2023,B,26
+632,Harald Elschenbroich,Germany,GER,false,1915,51,1968-06-14,1973-06-18,Hamburg,1973,B,31
+633,Christophe Van Garsse,Belgium,BEL,false,1915,56,1999-07-12,1999-10-01,Davis Cup WG,1999,D,25
+634,Juan Balcells,Spain,ESP,false,1915,55,2001-05-07,2001-05-07,Mallorca,2001,B,25
+635,Michael Joyce,United States,USA,false,1914,55,1996-03-29,1996-03-29,Miami Masters,1996,M,23
+636,Ricardas Berankis,Lithuania,LTU,true,1914,50,2013-04-15,2013-02-08,Davis Cup G2,2013,D,22
+637,Thanasi Kokkinakis,Australia,AUS,true,1914,48,2022-05-22,2022-05-22,Geneva,2022,B,26
+638,Bryan Shelton,United States,USA,false,1913,62,1992-07-13,1992-07-13,Newport,1992,B,26
+639,Roberto Carretero,Spain,ESP,false,1913,56,1996-05-13,1996-05-13,Hamburg Masters,1996,M,20
+639,Jordi Burillo,Spain,ESP,false,1913,57,1996-05-13,1996-05-13,Hamburg Masters,1996,M,23
+641,Harel Levy,Israel,ISR,false,1913,57,2000-08-21,2001-06-25,Nottingham,2001,B,22
+642,Matthew Ebden,Australia,AUS,false,1913,54,2018-10-15,2018-10-15,Shanghai Masters,2018,M,30
+643,Ben Shelton,United States,USA,true,1913,52,2023-09-27,2023-09-11,US Open,2023,G,20
+644,Angel Gimenez,Spain,ESP,false,1912,66,1981-05-25,1981-05-25,Rome,1981,M,25
+645,Francisco Gonzalez,Paraguay,PAR,false,1912,58,1983-04-11,1983-03-11,Davis Cup WG,1983,D,27
+646,Damir Keretic,Germany,GER,false,1911,53,1986-09-15,1986-09-15,Stuttgart Outdoor,1986,B,26
+647,Bob Green,United States,USA,false,1910,59,1985-02-18,1985-02-18,Delray Beach,1985,M,24
+648,Teymuraz Gabashvili,Russian Federation,RUS,false,1910,55,2016-01-18,2016-01-18,Sydney,2016,B,30
+649,Sebastien Lareau,Canada,CAN,false,1909,62,1996-07-22,1996-06-17,Queen's Club,1996,B,23
+650,Lionel Roux,France,FRA,false,1909,62,1997-04-21,1997-04-21,Tokyo,1997,A,24
+651,Arthur Rinderknech,France,FRA,true,1909,53,2022-10-31,2022-02-21,Doha,2022,B,26
+652,Rodney Harmon,United States,USA,false,1908,55,1984-07-20,1984-07-09,Wimbledon,1984,G,22
+653,Mark Kratzmann,Australia,AUS,false,1908,61,1990-04-16,1990-04-16,Tokyo Outdoor,1990,A,23
+654,Gabriel Markus,Argentina,ARG,false,1908,63,1992-08-03,1992-07-27,Kitzbuhel,1992,B,22
+655,David Sanchez,Spain,ESP,false,1908,64,2004-05-10,2004-05-24,St. Poelten,2004,B,26
+656,Jordan Thompson,Australia,AUS,true,1908,57,2021-07-26,2019-07-01,Antalya,2019,B,25
+657,Sherwood Stewart,United States,USA,false,1907,63,1975-08-25,1975-08-25,Columbus,1975,B,29
+658,Vladimir Zednik,Czech Republic,CZE,false,1907,58,1972-05-21,1978-07-02,Wimbledon,1978,G,31
+659,Bud Schultz,United States,USA,false,1907,60,1986-01-13,1986-01-13,Auckland,1986,B,26
+660,Markus Zoecke,Germany,GER,false,1907,63,1992-04-03,1992-03-24,Miami Masters,1992,M,23
+661,Justin Gimelstob,United States,USA,false,1907,57,1998-08-03,1998-08-03,Los Angeles,1998,B,21
+662,Daniel Nestor,Canada,CAN,false,1907,61,1999-08-30,1999-08-30,Boston,1999,B,26
+663,Evgeny Korolev,Kazakhstan,KAZ,false,1907,53,2010-02-01,2009-04-13,Houston,2009,B,21
+664,Lloyd Bourne,United States,USA,false,1906,64,1982-08-23,1982-08-16,Montreal / Toronto,1982,M,23
+665,Ramon Delgado,Paraguay,PAR,false,1906,61,1998-11-09,1999-03-26,Miami Masters,1999,M,22
+666,Paul Goldstein,United States,USA,false,1906,57,2006-04-24,2006-04-17,Houston,2006,B,29
+667,Brad Drewett,Australia,AUS,false,1905,58,1984-03-26,1984-05-13,Forest Hills WCT,1984,A,25
+668,Karsten Braasch,Germany,GER,false,1905,63,1994-06-13,1994-02-28,Scottsdale,1994,B,26
+669,Alex Radulescu,Germany,GER,false,1905,62,1997-09-29,1997-09-29,Toulouse,1997,B,22
+670,Steve Campbell,United States,USA,false,1905,58,1998-03-27,1998-03-27,Miami Masters,1998,M,27
+671,Wayne Black,Zimbabwe,ZIM,false,1905,61,1999-03-15,1999-03-26,Miami Masters,1999,M,25
+672,Mirza Basic,Bosnia and Herzegovina,BIH,false,1905,57,2018-02-12,2018-02-12,Sofia,2018,B,26
+673,Steve Krulevitz,United States,USA,false,1904,65,1977-01-15,1976-11-14,Hong Kong,1976,B,25
+674,Hans Schwaier,Germany,GER,false,1903,60,1985-09-10,1985-04-22,Bari,1985,B,21
+675,Julian Alonso,Spain,ESP,false,1903,64,1997-11-17,1997-11-10,Santiago,1997,B,20
+676,Lars Burgsmuller,Germany,GER,false,1903,63,2001-06-18,2001-06-18,Halle,2001,B,25
+677,Kristian Pless,Denmark,DEN,false,1902,62,2001-10-08,2001-09-28,Davis Cup G2,2001,D,20
+678,Ricardo Mello,Brazil,BRA,false,1902,63,2005-02-21,2005-02-21,Costa Do Sauipe,2005,B,24
+679,Victor Estrella,Dominican Republic,DOM,false,1902,56,2016-02-22,2015-05-04,Munich,2015,B,34
+680,Somdev Devvarman,India,IND,false,1901,59,2011-05-15,2011-05-02,Belgrade,2011,B,26
+681,Grega Zemlja,Slovenia,SLO,false,1901,56,2013-07-08,2013-07-08,Wimbledon,2013,G,26
+682,Juan Ignacio Londero,Argentina,ARG,false,1901,59,2019-09-09,2019-09-09,US Open,2019,G,26
+683,Peter Rennert,United States,USA,false,1900,68,1981-06-17,1981-06-15,Queen's Club,1981,A,22
+684,Christophe Roger Vasselin,France,FRA,false,1899,69,1983-06-13,1983-06-06,Roland Garros,1983,G,25
+685,Claudio Panatta,Italy,ITA,false,1898,62,1984-06-22,1984-06-11,Roland Garros,1984,G,24
+686,Francisco Maciel,Mexico,MEX,false,1898,61,1986-09-22,1986-08-18,Montreal / Toronto,1986,M,22
+687,Jens Knippschild,Germany,GER,false,1898,67,1999-08-16,1999-07-26,Stuttgart Outdoor,1999,A,24
+688,Michael Berrer,Germany,GER,false,1898,55,2010-04-26,2010-04-18,Monte Carlo Masters,2010,M,29
+689,Samuel Groth,Australia,AUS,false,1898,58,2015-09-25,2015-09-14,US Open,2015,G,27
+690,Thomas Hogstedt,Sweden,SWE,false,1897,60,1984-03-19,1984-04-16,Luxembourg,1984,B,20
+691,Cassio Motta,Brazil,BRA,false,1897,62,1984-07-20,1984-07-09,Wimbledon,1984,G,24
+692,Glenn Layendecker,United States,USA,false,1897,65,1990-03-12,1990-03-05,Memphis,1990,A,28
+693,Peter Wessels,Netherlands,NED,false,1897,67,2001-06-18,2001-06-25,s Hertogenbosch,2001,B,23
+694,Nduka Odizor,Nigeria,NGR,false,1896,65,1983-11-21,1983-11-14,Taipei,1983,B,25
+695,Eddie Edwards,South Africa,RSA,false,1896,64,1986-07-14,1986-07-14,Newport,1986,B,30
+696,Ruben Ramirez Hidalgo,Spain,ESP,false,1896,61,2006-10-09,2006-06-12,Roland Garros,2006,G,28
+697,Frederico Gil,Portugal,POR,false,1896,60,2011-04-25,2011-04-17,Monte Carlo Masters,2011,M,26
+698,Paolo Lorenzi,Italy,ITA,false,1896,64,2016-10-31,2017-09-11,US Open,2017,G,35
+699,Bernard Mignot,Belgium,BEL,false,1895,65,1975-02-16,1975-02-16,Basel,1975,B,26
+700,Tom Leonard,United States,USA,false,1895,67,1978-03-03,1978-02-27,Denver,1978,B,29
+701,Larry Stefanki,United States,USA,false,1895,63,1985-03-18,1985-02-25,La Quinta,1985,A,27
+702,Broderick Dyke,Australia,AUS,false,1895,58,1986-03-24,1986-03-24,Brussels,1986,A,25
+703,John Van Lottum,Netherlands,NED,false,1895,65,1999-04-26,1999-04-26,Monte Carlo Masters,1999,M,23
+704,Shahar Perkiss,Israel,ISR,false,1894,65,1985-03-18,1985-03-04,Houston,1985,B,22
+705,Alex Calatrava,Spain,ESP,false,1894,65,2001-02-04,2001-06-11,Roland Garros,2001,G,27
+706,Belus Prajoux,Chile,CHI,false,1893,65,1978-06-25,1977-04-04,Nice,1977,B,22
+707,Michael Tauson,Denmark,DEN,false,1893,75,1991-03-04,1991-02-08,Davis Cup G1,1991,D,24
+708,Benjamin Bonzi,France,FRA,true,1893,57,2023-03-06,2023-02-27,Marseille,2023,B,26
+709,Jose Lopez Maeso,Spain,ESP,false,1892,74,1981-11-30,1981-11-30,Santiago,1981,B,24
+710,Peter Doohan,Australia,AUS,false,1892,60,1987-07-06,1987-07-06,Wimbledon,1987,G,26
+711,Gary Muller,South Africa,RSA,false,1892,74,1990-03-12,1990-08-06,Los Angeles,1990,B,25
+712,Patrick Baur,Germany,GER,false,1892,75,1991-04-22,1991-04-22,Seoul,1991,B,25
+713,Ferdi Taygan,United States,USA,false,1891,69,1980-06-09,1980-06-09,Roland Garros,1980,G,23
+714,Tore Meinecke,Germany,GER,false,1891,58,1988-06-06,1988-05-16,Rome,1988,M,20
+715,Simon Youl,Australia,AUS,false,1891,67,1990-02-08,1990-01-29,Australian Open,1990,G,24
+716,Hugo Gaston,France,FRA,true,1891,60,2021-12-05,2021-11-08,Paris Masters,2021,M,21
+717,Matt Mitchell,United States,USA,false,1890,70,1985-03-18,1985-03-18,Brussels,1985,B,28
+718,Brad Pearce,United States,USA,false,1890,76,1990-08-27,1990-08-27,Schenectady,1990,B,24
+719,Veli Paloheimo,Finland,FIN,false,1890,72,1991-06-24,1991-06-24,Manchester,1991,B,23
+720,Diego Nargiso,Italy,ITA,false,1890,71,1992-04-06,1992-03-24,Miami Masters,1992,M,22
+721,Oliver Gross,Germany,GER,false,1890,67,1995-06-12,1995-05-22,Rome Masters,1995,M,21
+722,Frank Dancevic,Canada,CAN,false,1890,62,2007-09-17,2007-08-12,Canada Masters,2007,M,22
+723,Ian Fletcher,Australia,AUS,false,1889,54,1972-09-08,1972-09-08,South Orange,1972,B,23
+724,Tom Edlefsen,United States,USA,false,1889,53,1972-02-15,1972-09-25,Los Angeles WCT,1972,M,30
+725,Tony Giammalva,United States,USA,false,1889,76,1981-07-06,1981-07-06,Wimbledon,1981,G,23
+726,Joern Renzenbrink,Germany,GER,false,1889,72,1994-09-12,1994-09-12,US Open,1994,G,22
+727,Igor Sijsling,Netherlands,NED,false,1889,59,2013-07-15,2013-07-08,Wimbledon,2013,G,25
+728,Alejandro Falla,Colombia,COL,false,1888,61,2010-08-08,2010-08-08,Washington,2010,A,26
+729,Daniel Gimeno Traver,Spain,ESP,false,1888,62,2010-09-13,2010-09-13,US Open,2010,G,25
+730,Maximilian Marterer,Germany,GER,true,1888,71,2018-06-18,2018-06-11,Roland Garros,2018,G,22
+731,Mike Estep,United States,USA,false,1887,71,1976-04-25,1976-06-21,Nottingham,1976,M,26
+732,Ricardo Acuna,Chile,CHI,false,1887,73,1985-07-08,1985-07-08,Wimbledon,1985,G,27
+733,Joey Rive,United States,USA,false,1887,63,1988-04-15,1988-03-28,Key Biscayne,1988,M,24
+734,Christian Saceanu,Germany,GER,false,1887,62,1988-06-20,1988-06-20,Bristol,1988,B,19
+735,Jeremy Bates,United Kingdom,GBR,false,1887,73,1989-11-20,1989-11-20,Johannesburg,1989,B,27
+736,Lars Jonsson,Sweden,SWE,false,1887,77,1991-10-07,1991-10-07,Athens,1991,B,21
+737,Ryan Sweeting,United States,USA,false,1887,64,2011-04-17,2011-04-11,Houston,2011,B,23
+738,James Duckworth,Australia,AUS,true,1887,62,2021-12-05,2021-11-08,Paris Masters,2021,M,29
+739,Francisco Roig,Spain,ESP,false,1886,76,1992-05-04,1992-05-04,Atlanta,1992,B,24
+740,Lukas Lacko,Slovakia,SVK,false,1886,60,2012-02-06,2012-02-06,Zagreb,2012,B,24
+741,Roberto Carballes Baena,Spain,ESP,true,1886,58,2023-06-11,2023-05-21,Rome Masters,2023,M,30
+742,Ove Nils Bengtson,Sweden,SWE,false,1885,60,1969-06-16,1974-04-07,Palm Desert WCT,1974,B,29
+743,Arthur Fils,France,FRA,true,1885,60,2023-05-28,2023-05-28,Lyon,2023,B,
+744,Florin Segarceanu,Romania,ROU,false,1884,70,1983-08-22,1983-08-22,Cincinnati,1983,M,22
+745,Aki Rahunen,Finland,FIN,false,1884,78,1990-07-30,1990-08-06,San Remo,1990,B,18
+746,Rodolphe Gilbert,France,FRA,false,1884,79,1993-04-12,1993-06-14,Florence,1993,B,24
+747,Chris Guccione,Australia,AUS,false,1884,67,2007-01-15,2007-01-15,Sydney,2007,B,21
+748,Ricki Osterthun,Germany,GER,false,1883,65,1987-10-27,1987-10-19,Toulouse,1987,B,23
+749,Bruno Oresar,Croatia,CRO,false,1883,73,1989-01-16,1989-01-16,Sydney Outdoor,1989,B,21
+750,Eduardo Masso,Belgium,BEL,false,1883,77,1991-09-30,1991-09-27,Davis Cup WG,1991,D,27
+751,Christian Miniussi,Argentina,ARG,false,1883,76,1992-02-10,1991-11-11,Sao Paulo,1991,B,24
+752,Markus Hipfl,Austria,AUT,false,1883,72,2001-05-28,2001-05-28,St. Poelten,2001,B,23
+753,Alexander Popp,Germany,GER,false,1883,73,2003-07-07,2003-07-07,Wimbledon,2003,G,26
+754,Gregory Carraz,France,FRA,false,1883,69,2004-01-19,2004-03-01,Marseille,2004,B,28
+755,Colin Dowdeswell,United Kingdom,GBR,false,1882,70,1983-12-13,1983-11-28,Johannesburg,1983,B,28
+756,Jan Hernych,Czech Republic,CZE,false,1882,68,2014-02-10,2005-07-04,Wimbledon,2005,G,25
+757,Denis Gremelmayr,Germany,GER,false,1882,66,2008-05-12,2008-05-05,Barcelona,2008,A,26
+758,Marco Chiudinelli,Switzerland,SUI,false,1882,62,2009-11-09,2009-11-09,Basel,2009,A,28
+759,Taro Daniel,Japan,JPN,true,1882,65,2023-07-01,2018-08-27,Winston-Salem,2018,B,25
+760,Boro Jovanovic,Croatia,CRO,false,1881,31,1968-04-15,1973-06-16,Hamburg,1973,B,33
+761,Ricardo Ycaza,Ecuador,ECU,false,1881,78,1981-06-15,1981-06-15,Brussels,1981,B,23
+762,Eric Deblicker,France,FRA,false,1880,68,1978-06-19,1978-06-19,Brussels,1978,B,26
+763,David Carter,Australia,AUS,false,1880,77,1981-11-16,1981-11-09,Quito,1981,B,25
+764,Ken Flach,United States,USA,false,1880,65,1985-09-23,1985-09-23,Los Angeles,1985,B,22
+765,Jason Kubler,Australia,AUS,true,1880,66,2023-03-19,2023-03-19,Indian Wells Masters,2023,M,29
+766,Matteo Arnaldi,Italy,ITA,true,1880,61,2023-09-11,2023-09-11,US Open,2023,G,22
+767,Stanislav Birner,Czech Republic,CZE,false,1879,83,1981-07-27,1981-08-04,North Conway,1981,M,24
+768,Danie Visser,South Africa,RSA,false,1879,66,1987-03-30,1987-08-10,Stratton Mountain,1987,A,26
+769,Ivo Minar,Czech Republic,CZE,false,1879,72,2005-07-25,2005-07-25,Amersfoort,2005,B,21
+770,Stefano Travaglia,Italy,ITA,true,1879,66,2021-02-08,2021-02-08,Great Ocean Road Open,2021,B,29
+771,John Yuill,South Africa,RSA,false,1878,68,1975-01-25,1974-12-01,Johannesburg,1974,A,25
+772,John Andrews,United States,USA,false,1878,71,1976-04-20,1976-04-12,Nice,1976,B,24
+773,Zoltan Kuharszky,Hungary,HUN,false,1878,76,1984-07-30,1984-07-30,Washington,1984,B,25
+774,Marcel Freeman,United States,USA,false,1878,76,1986-09-15,1986-09-09,US Open,1986,G,26
+775,Antony Dupuis,France,FRA,false,1878,70,2004-02-16,2004-02-16,Milan,2004,B,30
+776,Roy Barth,United States,USA,false,1877,51,1969-10-06,1969-10-06,Berkeley,1969,B,22
+777,Frantisek Pala,Czech Republic,CZE,false,1877,57,1972-04-24,1972-04-23,Madrid,1972,B,28
+778,Gilles Moretton,France,FRA,false,1877,77,1982-09-27,1982-08-23,Cincinnati,1982,M,24
+779,Andre Sa,Brazil,BRA,false,1877,73,2002-08-19,2002-07-29,Kitzbuhel,2002,A,25
+780,Szabolcz Baranyi,Hungary,HUN,false,1876,65,1973-02-14,1973-02-14,Salt Lake City,1973,B,29
+781,Leif Shiras,United States,USA,false,1876,76,1984-08-20,1984-08-20,Montreal / Toronto,1984,M,24
+782,Gary Donnelly,United States,USA,false,1876,74,1986-11-10,1986-11-10,Stockholm,1986,A,24
+783,Bernabe Zapata Miralles,Spain,ESP,true,1876,67,2023-05-21,2023-05-21,Rome Masters,2023,M,26
+784,Mike Cahill,United States,USA,false,1875,77,1979-09-11,1979-08-27,Boston,1979,B,27
+785,David Rikl,Czech Republic,CZE,false,1875,80,1994-06-06,1994-06-06,Roland Garros,1994,G,23
+786,Marius Copil,Romania,ROU,false,1875,72,2018-10-29,2018-10-29,Basel,2018,A,28
+787,Julian Ganzabal,Argentina,ARG,false,1874,74,1976-06-27,1976-06-27,Wimbledon,1976,G,29
+788,Teimuraz Kakoulia,Russian Federation,RUS,false,1874,73,1977-03-28,1976-09-15,US Open,1976,G,
+789,Richard Matuszewski,United States,USA,false,1873,77,1989-04-24,1989-07-10,Wimbledon,1989,G,24
+790,Gregoire Barrere,France,FRA,true,1873,64,2023-07-17,2023-07-17,Wimbledon,2023,G,29
+791,John Marks,Australia,AUS,false,1872,79,1979-01-22,1979-01-09,Hobart,1979,B,26
+792,Irakli Labadze,Georgia,GEO,false,1872,76,2006-08-14,2004-05-17,Hamburg Masters,2004,M,22
+793,Stephane Robert,France,FRA,false,1872,64,2010-04-04,2010-04-12,Casablanca,2010,B,29
+794,Fred Mcnair,United States,USA,false,1871,77,1977-01-31,1977-03-07,Memphis,1977,M,26
+795,Daniel Elahi Galan Riveros,Colombia,COL,true,1871,67,2022-09-26,2022-09-26,San Diego,2022,B,26
+796,Charles Owens,United States,USA,false,1870,68,1974-10-03,1975-07-07,Wimbledon,1975,G,24
+797,Roberto Arguello,Argentina,ARG,false,1870,73,1985-09-30,1985-09-30,Barcelona,1985,B,22
+798,Bart Wuyts,Belgium,BEL,false,1870,82,1992-08-03,1992-08-03,San Marino,1992,B,22
+799,Santiago Ventura,Spain,ESP,false,1870,80,2004-08-30,2004-07-26,Kitzbuhel,2004,A,24
+800,Tim Van Rijthoven,Netherlands,NED,true,1870,73,2022-07-11,2022-07-11,Wimbledon,2022,G,25
+801,Pedro Cachin,Argentina,ARG,true,1870,69,2023-07-24,2023-07-24,Gstaad,2023,B,28
+802,Jean Francois Caujolle,France,FRA,false,1869,79,1977-08-01,1977-08-07,North Conway,1977,M,25
+803,Roberto Azar,Argentina,ARG,false,1869,92,1990-08-06,1990-08-06,San Remo,1990,B,24
+804,Paul Capdeville,Chile,CHI,false,1869,71,2007-09-28,2007-09-27,Mumbai,2007,B,24
+805,Dominic Stephan Stricker,Switzerland,SUI,true,1869,71,2023-09-11,2023-09-11,US Open,2023,G,21
+806,Alexander Mronz,Germany,GER,false,1868,90,1991-04-15,1991-04-15,Tokyo Outdoor,1991,A,26
+807,Nicolas Pereira,"Venezuela, Bolivarian Republic of",VEN,false,1868,85,1996-01-15,1996-01-08,Doha,1996,B,25
+808,Michal Tabara,Czech Republic,CZE,false,1868,85,2001-05-28,2001-05-28,St. Poelten,2001,B,21
+809,Igor Kunitsyn,Russian Federation,RUS,false,1868,71,2008-10-19,2008-10-13,Moscow,2008,B,27
+810,Brian Baker,United States,USA,false,1868,70,2012-07-16,2012-07-09,Wimbledon,2012,G,27
+811,Jean Loup Rouyer,France,FRA,false,1867,58,1971-06-21,1971-06-21,Eastbourne,1971,B,25
+812,Toshiro Sakai,Japan,JPN,false,1867,73,1974-06-24,1974-06-17,Roland Garros,1974,G,26
+813,Jairo Velasco,Spain,ESP,false,1867,76,1969-05-23,1976-10-11,Aviles,1976,B,29
+814,Juan Albert Viloca Puig,Spain,ESP,false,1867,87,1997-08-04,1997-07-14,Gstaad,1997,B,24
+815,Andreas Beck,Germany,GER,false,1867,66,2009-10-18,2009-10-18,Shanghai Masters,2009,M,23
+816,Michael Russell,United States,USA,false,1867,70,2012-08-26,2012-07-30,Los Angeles,2012,B,34
+817,Blaz Kavcic,Slovenia,SLO,false,1867,68,2014-02-07,2015-01-12,Doha,2015,B,27
+818,Peter Bastiansen,Denmark,DEN,false,1866,75,1985-09-30,1985-08-09,Davis Cup EUR,1985,D,23
+819,Martin Strelba,Czech Republic,CZE,false,1866,77,1989-05-08,1989-05-08,Munich,1989,B,22
+820,Brian Vahaly,United States,USA,false,1866,84,2003-03-17,2003-03-17,Indian Wells Masters,2003,M,23
+821,Andreas Haider Maurer,Austria,AUT,false,1866,72,2015-04-19,2015-04-27,Bucharest,2015,B,28
+822,Jaume Munar,Spain,ESP,true,1866,76,2019-05-06,2019-04-29,Barcelona,2019,A,21
+823,Michael Mmoh,United States,USA,true,1866,72,2023-09-11,2023-09-11,US Open,2023,G,25
+824,Illya Marchenko,Ukraine,UKR,true,1865,71,2016-01-18,2016-01-11,Doha,2016,B,28
+825,Bob Giltinan,Australia,AUS,false,1864,63,1971-04-12,1974-01-09,Sydney,1974,B,24
+826,Bernard Boileau,Belgium,BEL,false,1864,84,1980-05-27,1983-03-21,Rotterdam,1983,B,23
+827,Johan Carlsson,Sweden,SWE,false,1864,79,1987-03-20,1987-03-09,Key Biscayne,1987,M,21
+828,Yahiya Doumbia,Senegal,SEN,false,1864,80,1988-08-22,1988-08-22,Livingston,1988,B,24
+829,Daniele Bracciali,Italy,ITA,false,1864,79,2006-07-17,2006-07-17,Gstaad,2006,B,28
+830,Eric Korita,United States,USA,false,1863,85,1983-11-14,1983-09-19,Dallas,1983,B,20
+831,Claudio Pistolesi,Italy,ITA,false,1863,80,1987-04-20,1987-04-13,Bari,1987,B,19
+832,Martin Sinner,Germany,GER,false,1863,88,1995-04-10,1995-05-08,Munich,1995,B,27
+833,Oscar Hernandez,Spain,ESP,false,1863,71,2009-05-24,2009-05-24,Kitzbuhel,2009,B,31
+834,Marko Ostoja,Croatia,CRO,false,1862,86,1982-07-19,1982-07-26,Kitzbuhel,1982,B,21
+835,Jens Woehrmann,Germany,GER,false,1862,88,1989-11-27,1989-11-13,Stockholm,1989,M,22
+836,Robbie Weiss,United States,USA,false,1862,91,1993-02-08,1993-02-01,Australian Open,1993,G,26
+837,Emilio Benfele Alvarez,Spain,ESP,false,1862,90,1997-05-26,1997-05-19,Rome Masters,1997,M,24
+838,Patricio Cornejo,Chile,CHI,false,1861,56,1968-07-26,1974-06-17,Roland Garros,1974,G,30
+839,Syd Ball,Australia,AUS,false,1861,76,1974-06-24,1974-06-24,Nottingham,1974,M,24
+840,Christophe Freyss,France,FRA,false,1861,83,1980-08-18,1980-12-01,Santiago,1980,B,24
+841,Johan Van Herck,Belgium,BEL,false,1861,90,1997-11-17,1997-11-10,Stockholm,1997,B,23
+842,Christophe Rochus,Belgium,BEL,false,1861,77,2009-06-08,2005-05-23,St. Poelten,2005,B,26
+843,Sebastian Ofner,Austria,AUT,true,1861,72,2023-07-24,2023-07-24,Bastad,2023,B,27
+844,Anand Amritraj,India,IND,false,1860,75,1974-10-20,1974-10-20,Barcelona,1974,M,22
+845,Takao Suzuki,Japan,JPN,false,1860,71,2009-06-15,2009-05-15,Davis Cup G1,2009,D,32
+846,Ruben Bemelmans,Belgium,BEL,false,1860,82,2018-02-12,2018-02-09,Montpellier,2018,B,30
+847,Pieter Aldrich,South Africa,RSA,false,1859,87,1988-11-21,1990-10-15,Berlin,1990,B,25
+848,Stephane Simian,France,FRA,false,1859,90,1993-07-05,1993-06-21,Manchester,1993,B,26
+849,Bjorn Phau,Germany,GER,false,1859,87,2006-01-30,2006-05-22,Hamburg Masters,2006,M,26
+850,Milan Holecek,Czech Republic,CZE,false,1858,28,1968-04-22,1974-04-06,Atlanta WCT,1974,B,30
+851,Jorge Lozano,Mexico,MEX,false,1858,80,1988-10-03,1988-09-26,Los Angeles,1988,B,25
+852,Lucas Arnold Ker,Argentina,ARG,false,1858,82,1998-10-05,1998-08-03,Kitzbuhel,1998,B,23
+853,George Bastl,Switzerland,SUI,false,1858,86,2001-01-15,2001-01-15,Sydney,2001,B,25
+854,Joaquin Loyo Mayo,Mexico,MEX,false,1857,53,1969-02-02,1971-07-24,Davis Cup AME,1971,D,25
+855,Paul Kronk,Australia,AUS,false,1857,80,1980-08-18,1981-07-06,Wimbledon,1981,G,26
+856,Bernard Fritz,France,FRA,false,1857,89,1982-08-10,1982-08-02,North Conway,1982,M,28
+857,Marcelo Ingaramo,Argentina,ARG,false,1857,85,1985-09-23,1985-07-22,Washington,1985,B,22
+858,Jerome Potier,France,FRA,false,1857,84,1988-04-18,1989-06-12,Roland Garros,1989,G,26
+859,German Lopez,Spain,ESP,false,1857,88,1992-03-24,1992-03-23,Casablanca,1992,B,20
+860,Maximo Gonzalez,Argentina,ARG,false,1857,73,2009-06-08,2009-06-08,Roland Garros,2009,G,25
+861,Peter Szoke,Hungary,HUN,false,1856,69,1971-07-12,1976-05-21,Hamburg,1976,B,28
+862,John James,Australia,AUS,false,1855,86,1979-02-16,1979-02-05,Little Rock,1979,B,27
+863,Steve Meister,United States,USA,false,1855,85,1984-08-20,1984-08-20,Montreal / Toronto,1984,M,26
+864,Andrei Stoliarov,Russian Federation,RUS,false,1855,86,2002-06-24,2001-07-23,Amsterdam,2001,B,24
+865,Simon Greul,Germany,GER,false,1855,72,2010-03-22,2010-03-22,Indian Wells Masters,2010,M,28
+866,Denis Kudla,United States,USA,true,1855,80,2021-08-22,2018-09-10,US Open,2018,G,26
+867,Zhizhen Zhang,China,CHN,true,1855,81,2023-09-11,2023-09-11,US Open,2023,G,26
+868,John Paish,United Kingdom,GBR,false,1854,70,1972-07-23,1972-07-10,Wimbledon,1972,G,32
+869,Wayne Odesnik,United States,USA,false,1854,70,2010-05-14,2010-01-10,Brisbane,2010,B,24
+870,Christopher Oconnell,Australia,AUS,true,1854,77,2023-06-26,2023-06-19,Stuttgart,2023,B,29
+871,Frank Gebert,Germany,GER,false,1853,86,1977-05-03,1977-05-03,Munich,1977,B,24
+872,Marc Flur,United States,USA,false,1853,91,1985-09-16,1985-08-26,Cincinnati,1985,M,23
+873,Luis Herrera,Mexico,MEX,false,1853,90,1992-07-06,1992-07-06,Wimbledon,1992,G,20
+874,Neil Borwick,Australia,AUS,false,1853,89,1993-10-11,1993-10-11,Sydney Indoor,1993,A,26
+875,Juan Antonio Marin,Costa Rica,CRC,false,1853,96,2000-05-29,2000-01-10,Doha,2000,B,24
+876,Jean Rene Lisnard,Monaco,MON,false,1853,86,2004-01-12,2004-01-12,Chennai,2004,B,24
+877,Martin Vassallo Arguello,Argentina,ARG,false,1853,76,2009-04-19,2009-04-19,Monte Carlo Masters,2009,M,29
+878,Richard Meyer,United States,USA,false,1852,89,1980-11-24,1980-11-24,Bologna,1980,B,25
+879,Carsten Arriens,Germany,GER,false,1852,93,1995-03-13,1995-03-06,Scottsdale,1995,B,25
+880,Diego Hartfield,Argentina,ARG,false,1852,81,2007-06-18,2007-06-11,Roland Garros,2007,G,26
+881,Eduardo Schwank,Argentina,ARG,false,1852,71,2010-05-23,2008-10-13,Vienna,2008,A,22
+882,Henri Laaksonen,Switzerland,SUI,false,1852,84,2019-06-17,2019-06-10,Roland Garros,2019,G,27
+883,Jean Baptiste Chanfreau,France,FRA,false,1851,79,1973-11-24,1973-11-05,Paris Indoor,1973,M,26
+884,Dennis Van Scheppingen,Netherlands,NED,false,1851,92,1998-08-24,1998-08-24,New Haven,1998,A,23
+885,Grover Raz Reid,United States,USA,false,1850,78,1974-10-27,1974-10-27,Melbourne,1974,B,23
+886,Hans Simonsson,Sweden,SWE,false,1850,96,1982-12-16,1982-11-22,Ancona,1982,B,20
+887,Tom Nijssen,Netherlands,NED,false,1850,92,1989-04-17,1989-10-30,Frankfurt,1989,B,25
+888,Andrej Martin,Slovakia,SVK,false,1850,83,2016-08-15,2016-08-15,Rio Olympics,2016,O,26
+889,Yibing Wu,China,CHN,true,1850,77,2023-02-20,2023-05-28,Geneva,2023,B,23
+890,Jim Delaney,United States,USA,false,1849,82,1975-09-02,1977-06-20,Queen's Club,1977,M,24
+891,Trevor Allan,Australia,AUS,false,1849,92,1985-02-18,1984-07-23,Boston,1984,B,28
+892,Rajeev Ram,United States,USA,false,1849,80,2016-04-11,2016-04-04,Miami Masters,2016,M,32
+893,Marc Andrea Huesler,Switzerland,SUI,true,1849,76,2023-01-16,2023-01-16,Adelaide,2023,B,26
+894,Mark Knowles,Bahamas,BAH,false,1848,104,1996-02-16,1996-02-16,Davis Cup G1,1996,D,24
+895,Jim Gurfein,United States,USA,false,1847,100,1983-08-01,1983-08-01,North Conway,1983,B,22
+896,Todd Reid,Australia,AUS,false,1847,93,2004-04-16,2004-04-02,Miami Masters,2004,M,19
+897,Amer Delic,Bosnia and Herzegovina,BIH,false,1847,76,2009-04-05,2009-04-05,Miami Masters,2009,M,26
+898,Jaime Pinto Bravo,Chile,CHI,false,1846,48,1968-05-20,1972-05-20,Bournemouth,1972,B,32
+899,Antonio Munoz,Spain,ESP,false,1846,82,1976-06-14,1976-06-14,Roland Garros,1976,G,25
+899,Jun Kuki,Japan,JPN,false,1846,81,1976-04-25,1976-06-14,Roland Garros,1976,G,30
+901,Dominique Bedel,France,FRA,false,1846,87,1979-06-22,1979-06-22,Davis Cup EUR,1979,D,22
+902,Roland Stadler,Switzerland,SUI,false,1846,90,1986-09-15,1983-09-26,Geneva,1983,B,24
+903,Marc Lopez,Spain,ESP,false,1846,88,2002-10-28,2002-07-22,Umag,2002,B,19
+904,Jerome Haehnel,France,FRA,false,1846,91,2005-02-14,2004-11-01,Basel,2004,B,24
+905,Darian King,Barbados,BAR,true,1846,90,2017-09-22,2017-09-22,Davis Cup G2,2017,D,25
+906,Thiago Monteiro,Brazil,BRA,true,1846,81,2021-03-15,2021-03-08,Buenos Aires,2021,B,26
+907,Alex Bolt,Australia,AUS,true,1846,81,2021-07-31,2021-07-12,Wimbledon,2021,G,28
+908,Udo Riglewski,Germany,GER,false,1845,106,1991-05-06,1991-05-06,Munich,1991,B,24
+909,Jan Vacek,Czech Republic,CZE,false,1845,90,2001-11-05,2001-10-29,Stockholm,2001,B,25
+910,Martin Alund,Argentina,ARG,false,1845,77,2013-04-15,2013-04-15,Houston,2013,B,27
+911,Juan Pablo Varillas Patino Samudio,Peru,PER,true,1845,80,2023-07-01,2023-06-11,Roland Garros,2023,G,27
+912,Jim Mcmanus,United States,USA,false,1844,23,1968-04-08,1970-04-28,Houston,1970,B,29
+913,Chris Delaney,United States,USA,false,1844,91,1980-03-24,1980-03-24,Metz,1980,B,22
+914,Drew Gitlin,United States,USA,false,1844,102,1983-07-18,1983-07-18,Stuttgart Outdoor,1983,B,25
+915,Glenn Michibata,Canada,CAN,false,1844,95,1986-04-21,1986-04-07,Atlanta,1986,B,23
+916,Martin Laurendeau,Canada,CAN,false,1844,91,1988-09-19,1988-09-12,US Open,1988,G,24
+917,Frederic Fontang,France,FRA,false,1844,100,1991-10-14,1991-10-14,Tokyo Indoor,1991,A,21
+918,Gijs Brouwer,Netherlands,NED,true,1844,81,2023-04-10,2023-04-10,Houston,2023,B,27
+919,Quentin Halys,France,FRA,true,1844,82,2023-04-16,2023-07-17,Wimbledon,2023,G,26
+920,Vladimir Korotkov,Russian Federation,RUS,false,1842,63,1969-06-04,1973-07-30,Kitzbuhel,1973,B,25
+921,Nicola Spear,Serbia,SRB,false,1841,63,1970-07-13,1970-06-19,Davis Cup EUR,1970,D,26
+922,Juan Avendano,Spain,ESP,false,1841,104,1984-05-01,1984-04-09,Bari,1984,B,23
+923,Laurence Tieleman,Italy,ITA,false,1841,104,1999-09-20,1999-09-20,Tashkent,1999,B,26
+924,Neville Godwin,South Africa,RSA,false,1841,94,2001-09-10,2001-07-16,Newport,2001,B,26
+925,Flavio Cipolla,Italy,ITA,false,1841,81,2009-02-02,2009-02-02,Australian Open,2009,G,25
+926,Nicolas Kicker,Argentina,ARG,false,1841,92,2017-07-31,2017-07-31,Hamburg,2017,A,24
+927,Ramanathan Krishnan,India,IND,false,1840,50,1968-11-16,1969-05-17,Davis Cup EUR,1969,D,32
+928,Teimuraz Kakulia,Uzbekistan,URS,false,1840,83,1976-07-30,1976-08-20,Davis Cup EUR,1976,D,29
+929,Jan Norback,Sweden,SWE,false,1840,97,1981-03-30,1981-07-20,Stuttgart Outdoor,1981,B,25
+930,Erick Iskersky,United States,USA,false,1840,96,1982-05-03,1982-05-03,Tampa,1982,B,24
+931,Stefan Eriksson,Sweden,SWE,false,1840,101,1986-04-14,1986-04-07,Cologne,1986,B,22
+932,Dimitri Poliakov,Ukraine,UKR,false,1840,107,1991-07-29,1991-08-05,Kitzbuhel,1991,B,23
+933,Oscar Martinez,Spain,ESP,false,1840,102,1994-10-24,1994-10-10,Athens,1994,B,20
+934,Alejandro Hernandez,Mexico,MEX,false,1840,90,2002-01-07,2001-09-28,Davis Cup G1,2001,D,23
+935,Danai Udomchoke,Thailand,THA,false,1840,89,2007-02-16,2007-02-16,San Jose,2007,B,25
+936,Tobias Kamke,Germany,GER,false,1840,78,2014-01-06,2013-09-23,Metz,2013,B,27
+937,Thomas Fabbiano,Italy,ITA,false,1840,100,2019-07-15,2019-07-15,Wimbledon,2019,G,30
+938,Premjit Lall,India,IND,false,1839,67,1971-06-18,1971-06-14,Beckenham,1971,B,30
+939,Simone Colombo,Italy,ITA,false,1839,96,1986-10-10,1986-10-06,Palermo,1986,B,23
+940,Menno Oosting,Netherlands,NED,false,1839,92,1988-02-29,1988-02-29,Metz,1988,B,23
+941,Alex Lopez Moron,Spain,ESP,false,1839,103,1995-05-29,1995-05-01,Monte Carlo Masters,1995,M,24
+942,Federico Coria,Argentina,ARG,true,1839,86,2022-05-22,2022-05-22,Lyon,2022,B,30
+943,Wanaro Ngodrella,France,FRA,false,1837,82,1973-04-16,1973-04-16,Nice,1973,B,23
+944,Dan Cassidy,United States,USA,false,1837,101,1984-12-31,1984-12-31,Melbourne,1984,B,23
+945,Martin Wostenholme,Canada,CAN,false,1837,98,1987-06-15,1987-05-11,Forest Hills,1987,A,24
+946,Steve Bryan,United States,USA,false,1837,103,1993-11-22,1993-10-18,Tokyo Indoor,1993,A,23
+947,Dick Norman,Belgium,BEL,false,1837,100,1995-09-29,1995-09-29,Davis Cup WG,1995,D,24
+948,Tomas Behrend,Germany,GER,false,1837,94,2003-08-25,2003-07-28,Kitzbuhel,2003,A,28
+949,Olivier Mutis,France,FRA,false,1837,92,2003-08-25,2003-08-04,Sopot,2003,B,25
+950,Norbert Gombos,Slovakia,SVK,false,1837,88,2020-11-16,2020-11-09,Paris Masters,2020,M,30
+951,Rinky Hijikata,Australia,AUS,true,1837,91,2023-09-11,2023-09-11,US Open,2023,G,22
+952,Torben Ulrich,Denmark,DEN,false,1836,13,1968-02-27,1969-02-17,Salisbury,1969,B,36
+953,Jean Louis Haillet,France,FRA,false,1836,94,1979-11-12,1979-11-05,Paris Indoor,1979,B,25
+954,Kelly Jones,United States,USA,false,1836,102,1993-10-04,1990-05-07,Singapore,1990,B,26
+955,Lars Koslowski,Germany,GER,false,1836,101,1992-02-24,1992-01-27,Australian Open,1992,G,20
+956,Jan Hajek,Czech Republic,CZE,false,1836,92,2007-06-24,2007-06-11,Roland Garros,2007,G,23
+957,Go Soeda,Japan,JPN,false,1836,86,2012-07-23,2012-07-23,Atlanta,2012,B,27
+958,Tim Smyczek,United States,USA,false,1836,89,2015-04-05,2015-04-05,Miami Masters,2015,M,27
+959,Lars Rehmann,Germany,GER,false,1835,103,1995-02-20,1995-10-09,Kuala Lumpur,1995,B,20
+960,Evgeny Donskoy,Russian Federation,RUS,false,1835,92,2015-10-26,2015-10-26,Moscow,2015,B,25
+961,Peter Curtis,United Kingdom,GBR,false,1834,64,1968-09-12,1971-02-28,Salisbury,1971,B,25
+962,Todd Nelson,United States,USA,false,1834,105,1986-06-16,1986-06-16,Queen's Club,1986,A,25
+963,David Nainkin,South Africa,RSA,false,1834,105,1998-09-21,1998-09-21,Tashkent,1998,B,28
+964,Cedrik Marcel Stebe,Germany,GER,false,1834,85,2012-09-21,2012-09-21,Metz,2012,B,21
+965,Alejandro Tabilo,Chile,CHI,true,1834,81,2023-04-02,2022-05-02,Munich,2022,B,24
+966,Max Purcell,Australia,AUS,true,1834,89,2023-08-27,2023-08-27,Winston-Salem,2023,B,25
+967,Borna Gojo,Croatia,CRO,true,1834,93,2023-09-27,2023-09-11,US Open,2023,G,25
+968,Sashi Menon,India,IND,false,1833,91,1975-10-03,1981-03-13,Davis Cup G1,1981,D,28
+969,Alvaro Jordan,Colombia,COL,false,1833,104,1992-03-09,1992-02-07,Davis Cup G2,1992,D,30
+970,Brian Macphie,United States,USA,false,1833,102,1998-11-16,1998-08-24,Indianapolis,1998,A,26
+971,Jeff Morrison,United States,USA,false,1833,103,2004-08-16,2004-08-09,Cincinnati Masters,2004,M,25
+972,Robin Vik,Czech Republic,CZE,false,1833,94,2006-03-06,2006-03-06,Dubai,2006,A,26
+973,Constant Lestienne,France,FRA,true,1833,85,2023-01-30,2023-01-30,Australian Open,2023,G,30
+974,Jiri Granat,Czech Republic,CZE,false,1832,97,1978-06-19,1978-06-19,Brussels,1978,B,23
+975,Mark Vines,United States,USA,false,1832,102,1982-02-08,1981-11-02,Paris Indoor,1981,B,24
+976,Chris Pridham,Canada,CAN,false,1832,105,1993-02-01,1993-02-01,Australian Open,1993,G,27
+977,Jiri Vanek,Czech Republic,CZE,false,1832,105,2001-05-28,2001-05-28,St. Poelten,2001,B,23
+978,Nicolas Coutelot,France,FRA,false,1832,96,2002-06-10,2002-06-10,Roland Garros,2002,G,25
+979,Tommy Ho,United States,USA,false,1831,107,1995-08-07,1995-05-01,Seoul,1995,B,21
+980,Robert Kendrick,United States,USA,false,1831,103,2004-02-16,2004-04-19,Houston,2004,B,24
+981,Carsten Ball,Australia,AUS,false,1831,86,2010-06-07,2010-06-07,Roland Garros,2010,G,22
+982,Doug Flach,United States,USA,false,1830,106,1998-08-03,1998-06-15,Queen's Club,1998,B,27
+983,Tomas Zib,Czech Republic,CZE,false,1830,99,2005-08-29,2005-07-25,Stuttgart,2005,A,29
+984,Yuki Bhambri,India,IND,false,1830,103,2018-04-23,2018-04-02,Miami Masters,2018,M,25
+985,Antonie Hoang,France,FRA,false,1830,97,2019-09-23,2019-09-09,US Open,2019,G,23
+986,Attila Balazs,Hungary,HUN,true,1830,90,2020-03-02,2020-02-24,Rio De Janeiro,2020,A,31
+987,Richard Lewis,United Kingdom,GBR,false,1829,100,1978-04-03,1978-03-24,Davis Cup EUR,1978,D,23
+988,Josselin Ouanna,France,FRA,false,1829,91,2010-07-12,2010-06-07,Roland Garros,2010,G,24
+989,Rolf Norberg,Sweden,SWE,false,1828,95,1977-06-16,1977-06-20,Berlin,1977,B,25
+990,Alejandro Ganzabal,Argentina,ARG,false,1828,105,1984-10-05,1984-09-24,Geneva,1984,B,24
+991,Jose Francisco Altur,Spain,ESP,false,1828,108,1990-02-19,1990-01-29,Australian Open,1990,G,21
+991,Lars Anders Wahlgren,Sweden,SWE,false,1828,109,1990-02-19,1990-01-29,Australian Open,1990,G,23
+993,Filip Misolic,Austria,AUT,true,1828,97,2023-07-31,2023-07-31,Umag,2023,B,21
+994,Aleksandar Vukic,Australia,AUS,true,1828,92,2023-08-20,2023-08-14,Toronto Masters,2023,M,27
+995,Jeff Austin,United States,USA,false,1827,89,1973-10-12,1974-02-03,Omaha,1974,B,22
+996,Sandor Noszaly,Hungary,HUN,false,1827,110,1995-09-29,1995-09-29,Davis Cup WG,1995,D,23
+997,Brian Dabul,Argentina,ARG,false,1827,86,2009-02-16,2009-02-16,Costa Do Sauipe,2009,B,24
+998,Nicholas Kalogeropoulos,Greece,GRE,false,1826,47,1968-05-10,1971-07-05,Wimbledon,1971,G,26
+999,Marcello Lara,Mexico,MEX,false,1826,90,1974-10-03,1974-09-02,Boston,1974,M,26
+1000,Marzio Martelli,Italy,ITA,false,1826,109,1997-07-07,1997-07-07,Wimbledon,1997,G,25
