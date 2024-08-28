@@ -6,4 +6,4 @@ Using data from the Jeff Sackman tennis database, Ultimate Tennis Statistics, an
 
 To view the data visualizations and their corresponding code: https://nataliebrewer.github.io/Article-1-SportsAnalyticsGroup/
 
-For the full article: 
+For the full article: https://sportsanalytics.studentorg.berkeley.edu/articles/beating-the-clock.html
